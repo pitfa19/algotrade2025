@@ -145,8 +145,8 @@ class DemoTradingBot:
         async for msg in self.ws:
             data = json.loads(msg)
 
-            if not (data.get("type") == "market_data_update" and not self.print_market_data):
-                print(json.dumps({"message": data}, indent=2))
+            # if not (data.get("type") == "market_data_update" and not self.print_market_data):
+            #     print(json.dumps({"message": data}, indent=2))
 
             rid = data.get("user_request_id")
             if rid and rid in self._pending:

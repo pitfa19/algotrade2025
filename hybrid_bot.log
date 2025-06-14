@@ -1,0 +1,991 @@
+2025-06-15 00:24:34 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:27:04 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:28:44 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:28:45 DEBUG HybridBot Market data tick: time=573215, instruments=264
+2025-06-15 00:28:45 INFO  HybridBot Selected base instrument: $CARD, expiry in 630s
+2025-06-15 00:28:50 DEBUG HybridBot Market data tick: time=573314, instruments=264
+2025-06-15 00:28:50 DEBUG HybridBot Market data tick: time=573415, instruments=264
+2025-06-15 00:28:51 DEBUG HybridBot Market data tick: time=573515, instruments=264
+2025-06-15 00:28:51 DEBUG HybridBot Market data tick: time=573615, instruments=264
+2025-06-15 00:28:53 DEBUG HybridBot Market data tick: time=573715, instruments=264
+2025-06-15 00:28:53 DEBUG HybridBot Market data tick: time=573815, instruments=264
+2025-06-15 00:28:54 DEBUG HybridBot Market data tick: time=573915, instruments=264
+2025-06-15 00:28:56 DEBUG HybridBot Market data tick: time=574015, instruments=264
+2025-06-15 00:28:57 DEBUG HybridBot Market data tick: time=574114, instruments=264
+2025-06-15 00:28:58 DEBUG HybridBot Market data tick: time=574216, instruments=264
+2025-06-15 00:28:58 DEBUG HybridBot Market data tick: time=574314, instruments=264
+2025-06-15 00:28:58 DEBUG HybridBot Market data tick: time=574415, instruments=264
+2025-06-15 00:28:59 DEBUG HybridBot Market data tick: time=574515, instruments=264
+2025-06-15 00:28:59 DEBUG HybridBot Market data tick: time=574615, instruments=264
+2025-06-15 00:29:00 DEBUG HybridBot Market data tick: time=574714, instruments=264
+2025-06-15 00:29:02 DEBUG HybridBot Market data tick: time=574815, instruments=264
+2025-06-15 00:29:04 DEBUG HybridBot Market data tick: time=574914, instruments=264
+2025-06-15 00:29:04 DEBUG HybridBot Market data tick: time=575015, instruments=264
+2025-06-15 00:29:04 DEBUG HybridBot Market data tick: time=575114, instruments=264
+2025-06-15 00:29:05 DEBUG HybridBot Market data tick: time=575215, instruments=264
+2025-06-15 00:29:05 DEBUG HybridBot Market data tick: time=575314, instruments=264
+2025-06-15 00:29:06 DEBUG HybridBot Market data tick: time=575429, instruments=264
+2025-06-15 00:29:06 DEBUG HybridBot Market data tick: time=575514, instruments=264
+2025-06-15 00:29:06 DEBUG HybridBot Market data tick: time=575615, instruments=264
+2025-06-15 00:29:06 DEBUG HybridBot Market data tick: time=575716, instruments=264
+2025-06-15 00:29:07 DEBUG HybridBot Market data tick: time=575815, instruments=264
+2025-06-15 00:29:07 DEBUG HybridBot Market data tick: time=575915, instruments=264
+2025-06-15 00:29:10 DEBUG HybridBot Market data tick: time=576016, instruments=264
+2025-06-15 00:29:10 DEBUG HybridBot Market data tick: time=576114, instruments=264
+2025-06-15 00:29:10 DEBUG HybridBot Market data tick: time=576216, instruments=264
+2025-06-15 00:29:10 DEBUG HybridBot Market data tick: time=576315, instruments=264
+2025-06-15 00:29:11 DEBUG HybridBot Market data tick: time=576415, instruments=264
+2025-06-15 00:29:11 DEBUG HybridBot Market data tick: time=576515, instruments=264
+2025-06-15 00:29:12 DEBUG HybridBot Market data tick: time=576615, instruments=264
+2025-06-15 00:29:14 DEBUG HybridBot Market data tick: time=576714, instruments=264
+2025-06-15 00:29:14 DEBUG HybridBot Market data tick: time=576815, instruments=264
+2025-06-15 00:29:16 DEBUG HybridBot Market data tick: time=576914, instruments=264
+2025-06-15 00:29:17 DEBUG HybridBot Market data tick: time=577015, instruments=264
+2025-06-15 00:29:20 DEBUG HybridBot Market data tick: time=577114, instruments=264
+2025-06-15 00:29:20 DEBUG HybridBot Market data tick: time=577215, instruments=264
+2025-06-15 00:29:22 DEBUG HybridBot Market data tick: time=577315, instruments=264
+2025-06-15 00:29:22 DEBUG HybridBot Market data tick: time=577415, instruments=264
+2025-06-15 00:29:25 DEBUG HybridBot Market data tick: time=577517, instruments=264
+2025-06-15 00:30:56 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:31:04 DEBUG HybridBot Market data tick: time=705215, instruments=264
+2025-06-15 00:31:04 INFO  HybridBot Selected base instrument: $CARD, expiry in 765s
+2025-06-15 00:31:07 DEBUG HybridBot Market data tick: time=705314, instruments=264
+2025-06-15 00:31:20 DEBUG HybridBot Market data tick: time=705415, instruments=264
+2025-06-15 00:31:22 DEBUG HybridBot Market data tick: time=705515, instruments=264
+2025-06-15 00:36:38 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:36:41 INFO  HybridBot Selected base instrument: $CARD, expiry in 1095s
+2025-06-15 00:37:46 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:38:25 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:38:32 INFO  HybridBot Selected base instrument: $CARD, expiry in 1215s
+2025-06-15 00:41:38 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:41:46 INFO  HybridBot Selected base instrument: $CARD, expiry in 1395s
+2025-06-15 00:43:01 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:43:14 INFO  HybridBot Initializing HybridBot
+2025-06-15 00:47:27 INFO  HybridBot Starting HybridBot - Initializing market making strategy
+2025-06-15 00:47:30 INFO  HybridBot Strategy: Selected $CARD as base instrument with 1755s until expiry
+2025-06-15 00:50:47 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:50:52 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:50:54 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:50:58 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:01 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:03 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:03 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:04 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:45 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:53:45 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 00:53:45 INFO  HybridBot Selected base $CARD, expires in 105s
+2025-06-15 00:56:46 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 00:56:53 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 00:56:55 INFO  HybridBot Selected base $CARD, expires in 285s
+2025-06-15 00:56:55 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:55 INFO  HybridBot future_mid → 99351
+2025-06-15 00:56:55 INFO  HybridBot future_mid → 99512
+2025-06-15 00:56:55 INFO  HybridBot Warm-up complete: 35 option series
+2025-06-15 00:56:55 INFO  HybridBot Trading loop start; T_remain=276.7s
+2025-06-15 00:56:55 INFO  HybridBot Using strikes: ['$CARD_call_99357_255', '$CARD_call_99256_285', '$CARD_call_99145_240', '$CARD_call_100000_270', '$CARD_call_99000_270', '$CARD_put_99357_255', '$CARD_put_99256_285', '$CARD_put_99145_240', '$CARD_put_100000_270', '$CARD_put_99000_270']
+2025-06-15 00:56:55 INFO  HybridBot σ → 0.0017
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99351
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99512
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99351
+2025-06-15 00:56:56 INFO  HybridBot future_mid → 99512
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 98762
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99512
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 98762
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99512
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99375
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 98762
+2025-06-15 00:56:57 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99375
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 98762
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99375
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 98762
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 101393
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 98762
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 100371
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 98762
+2025-06-15 00:57:00 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 100371
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 100371
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:01 ERROR HybridBot main_loop crashed
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 219, in main_loop
+    if bresp.success and aresp.success:
+       ^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'success'
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 100371
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99512
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 100371
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:01 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:02 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:03 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100509
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100317
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100317
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100317
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100317
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 100317
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:04 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:05 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:05 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 98780
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99595
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:06 INFO  HybridBot future_mid → 99259
+2025-06-15 00:57:09 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:09 INFO  HybridBot future_mid → 99638
+2025-06-15 00:57:09 INFO  HybridBot future_mid → 99172
+2025-06-15 00:57:09 INFO  HybridBot future_mid → 99638
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99601
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99601
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99601
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99461
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:10 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot add_order_response: OK (req=0000000001)
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99759
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:11 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:12 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 100103
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:13 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99755
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:14 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99801
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:15 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:16 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:16 INFO  HybridBot future_mid → 99876
+2025-06-15 00:57:16 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:16 INFO  HybridBot future_mid → 100040
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100040
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100040
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100040
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:17 INFO  HybridBot future_mid → 100040
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100085
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99760
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100966
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100966
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100966
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100966
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100966
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100612
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98307
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100326
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100117
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98599
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 98956
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99804
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100949
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100949
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100949
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100949
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100331
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100949
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99621
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99621
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99621
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:22 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99621
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99621
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101877
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99403
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:23 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100600
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 101277
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:24 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100333
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100952
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99839
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99000
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99250
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99250
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99250
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100473
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100505
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100778
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100212
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100212
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100212
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100212
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 100212
+2025-06-15 00:57:25 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100131
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100131
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100131
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100131
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100217
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 100131
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99984
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99538
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99702
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99842
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99538
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99443
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99842
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99538
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99443
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99842
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99538
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99443
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99842
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99568
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99538
+2025-06-15 00:57:26 INFO  HybridBot future_mid → 99443
+2025-06-15 00:58:24 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:15:13 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:15:18 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:15:22 INFO  HybridBot Selected future: $CARD_future_1395, expires in 1395s
+2025-06-15 01:15:22 INFO  HybridBot future_mid → 100703
+2025-06-15 01:15:22 INFO  HybridBot Warm-up complete: 31 option series
+2025-06-15 01:15:22 INFO  HybridBot Trading loop start; T_remain=1386.2s
+2025-06-15 01:15:22 INFO  HybridBot Using strikes: ['$CARD_call_100692_1365', '$CARD_call_100648_1350', '$CARD_call_100432_1395', '$CARD_call_101082_1380', '$CARD_call_100091_1380', '$CARD_put_100692_1365', '$CARD_put_100648_1350', '$CARD_put_100432_1395', '$CARD_put_101082_1380', '$CARD_put_100091_1380']
+2025-06-15 01:15:22 INFO  HybridBot σ → 0.0002
+2025-06-15 01:15:26 INFO  HybridBot future_mid moved by 87 → 100796
+2025-06-15 01:15:27 INFO  HybridBot future_mid moved by 87 → 100709
+2025-06-15 01:15:28 ERROR HybridBot main_loop crashed
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 225, in main_loop
+    if bresp.success and aresp.success:
+       ^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'success'
+2025-06-15 01:19:00 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:19:10 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:19:11 INFO  HybridBot Selected future: $CARD_future_1620, expires in 1620s
+2025-06-15 01:19:11 INFO  HybridBot future_mid → 99762
+2025-06-15 01:19:11 INFO  HybridBot Warm-up complete: 32 option series
+2025-06-15 01:19:11 INFO  HybridBot Trading loop start; T_remain=1609.2s
+2025-06-15 01:19:11 INFO  HybridBot Using strikes: ['$CARD_call_99742_1605', '$CARD_call_99641_1620', '$CARD_call_99256_1590', '$CARD_call_99128_1575', '$CARD_call_100648_1620', '$CARD_put_99742_1605', '$CARD_put_99641_1620', '$CARD_put_99256_1590', '$CARD_put_99128_1575', '$CARD_put_100648_1620']
+2025-06-15 01:19:11 INFO  HybridBot σ → 0.0004
+2025-06-15 01:19:31 INFO  HybridBot future_mid moved by 50 → 99712
+2025-06-15 01:19:33 INFO  HybridBot future_mid moved by 50 → 99762
+2025-06-15 01:19:42 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 01:19:47 INFO  HybridBot future_mid moved by 531 → 100295
+2025-06-15 01:19:47 INFO  HybridBot future_mid moved by 531 → 99764
+2025-06-15 01:20:00 ERROR HybridBot main_loop crashed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 210, in main_loop
+    a_raw = await self.sell(instr, ask_px)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 282, in sell
+    return await self.send(sell_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 222, in send
+    await self.ws.send(json.dumps(payload_dict))
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 476, in send
+    async with self.send_context():
+  File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 957, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-06-15 01:20:16 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:20:17 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:20:18 INFO  HybridBot Selected future: $CARD_future_1695, expires in 1695s
+2025-06-15 01:20:24 INFO  HybridBot future_mid → 100430
+2025-06-15 01:20:24 INFO  HybridBot Warm-up complete: 32 option series
+2025-06-15 01:20:24 INFO  HybridBot Trading loop start; T_remain=1686.9s
+2025-06-15 01:20:24 INFO  HybridBot Using strikes: ['$CARD_call_100518_1680', '$CARD_call_100259_1665', '$CARD_call_100610_1650', '$CARD_call_100954_1695', '$CARD_call_99613_1650', '$CARD_put_100518_1680', '$CARD_put_100259_1665', '$CARD_put_100610_1650', '$CARD_put_100954_1695', '$CARD_put_99613_1650']
+2025-06-15 01:20:24 INFO  HybridBot σ → 0.0006
+2025-06-15 01:20:33 INFO  HybridBot future_mid moved by 244 → 100674
+2025-06-15 01:20:33 ERROR HybridBot exchange error: Price must be positive
+2025-06-15 01:20:34 INFO  HybridBot future_mid moved by 244 → 100430
+2025-06-15 01:20:37 INFO  HybridBot future_mid moved by 166 → 100596
+2025-06-15 01:20:50 ERROR HybridBot exchange error: Price must be positive
+2025-06-15 01:20:54 INFO  HybridBot add_order_response: OK (req=0000000002)
+2025-06-15 01:20:56 INFO  HybridBot future_mid moved by 420 → 101016
+2025-06-15 01:21:07 ERROR HybridBot main_loop crashed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 209, in main_loop
+    b_raw = await self.buy(instr, bid_px)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 262, in buy
+    return await self.send(buy_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 222, in send
+    await self.ws.send(json.dumps(payload_dict))
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 476, in send
+    async with self.send_context():
+  File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 957, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-06-15 01:22:47 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:22:51 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:22:53 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:22:54 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:24:29 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:24:29 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:25:26 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:25:26 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:25:29 INFO  HybridBot Selected future: $CARD_future_60, expires in 60s
+2025-06-15 01:25:35 INFO  HybridBot future_mid → 99582
+2025-06-15 01:25:35 INFO  HybridBot Warm-up complete: 10 option series
+2025-06-15 01:25:35 INFO  HybridBot Trading loop start; T_remain=50.4s
+2025-06-15 01:25:35 INFO  HybridBot Using strikes: ['$CARD_call_100000_60', '$CARD_call_99000_60', '$CARD_call_101000_60', '$CARD_call_98000_60', '$CARD_call_102000_60', '$CARD_put_100000_60', '$CARD_put_99000_60', '$CARD_put_101000_60', '$CARD_put_98000_60', '$CARD_put_102000_60']
+2025-06-15 01:25:35 INFO  HybridBot σ → 0.0030
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: FAIL (req=0000000001)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000002)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000003)
+2025-06-15 01:25:35 INFO  HybridBot quoted $CARD_call_99000_60 @ 22006/23001
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000004)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: FAIL (req=0000000005)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000006)
+2025-06-15 01:25:35 INFO  HybridBot add_order_response: OK (req=0000000007)
+2025-06-15 01:25:36 INFO  HybridBot quoted $CARD_call_98000_60 @ 54768/55763
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000008)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000009)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000010)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000011)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000012)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000013)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000014)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000015)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000016)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000017)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000018)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000019)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000020)
+2025-06-15 01:25:36 INFO  HybridBot delta hedge buy 4 @ 99582
+2025-06-15 01:25:36 INFO  HybridBot arb mis=16806: sell $CARD_call_99000_60/$CARD_put_99000_60
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: FAIL (req=0000000021)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000022)
+2025-06-15 01:25:36 INFO  HybridBot add_order_response: OK (req=0000000023)
+2025-06-15 01:25:36 INFO  HybridBot σ → 0.0145
+2025-06-15 01:25:36 INFO  HybridBot future_mid moved by 242 → 99824
+2025-06-15 01:25:36 INFO  HybridBot cancel_order_response: OK (req=0000000024)
+2025-06-15 01:25:36 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:39 INFO  HybridBot add_order_response: OK (req=0000000026)
+2025-06-15 01:25:39 INFO  HybridBot add_order_response: FAIL (req=0000000027)
+2025-06-15 01:25:39 INFO  HybridBot cancel_order_response: FAIL (req=0000000028)
+2025-06-15 01:25:39 INFO  HybridBot cancel_order_response: OK (req=0000000029)
+2025-06-15 01:25:39 INFO  HybridBot add_order_response: OK (req=0000000030)
+2025-06-15 01:25:39 INFO  HybridBot add_order_response: OK (req=0000000031)
+2025-06-15 01:25:39 INFO  HybridBot quoted $CARD_call_99000_60 @ 10350/11348
+2025-06-15 01:25:39 INFO  HybridBot cancel_order_response: OK (req=0000000032)
+2025-06-15 01:25:39 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:42 INFO  HybridBot add_order_response: OK (req=0000000034)
+2025-06-15 01:25:42 INFO  HybridBot add_order_response: FAIL (req=0000000035)
+2025-06-15 01:25:42 INFO  HybridBot cancel_order_response: FAIL (req=0000000036)
+2025-06-15 01:25:42 INFO  HybridBot cancel_order_response: OK (req=0000000037)
+2025-06-15 01:25:42 INFO  HybridBot add_order_response: OK (req=0000000038)
+2025-06-15 01:25:42 INFO  HybridBot add_order_response: OK (req=0000000039)
+2025-06-15 01:25:42 INFO  HybridBot quoted $CARD_call_98000_60 @ 18446/19444
+2025-06-15 01:25:42 INFO  HybridBot cancel_order_response: OK (req=0000000040)
+2025-06-15 01:25:42 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:45 INFO  HybridBot add_order_response: OK (req=0000000042)
+2025-06-15 01:25:45 INFO  HybridBot add_order_response: FAIL (req=0000000043)
+2025-06-15 01:25:45 INFO  HybridBot cancel_order_response: OK (req=0000000044)
+2025-06-15 01:25:45 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:45 INFO  HybridBot future_mid moved by 885 → 100709
+2025-06-15 01:25:46 INFO  HybridBot future_mid moved by 379 → 100330
+2025-06-15 01:25:47 INFO  HybridBot future_mid moved by 104 → 100434
+2025-06-15 01:25:48 INFO  HybridBot add_order_response: OK (req=0000000046)
+2025-06-15 01:25:48 INFO  HybridBot add_order_response: FAIL (req=0000000047)
+2025-06-15 01:25:48 INFO  HybridBot cancel_order_response: OK (req=0000000048)
+2025-06-15 01:25:48 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:49 INFO  HybridBot future_mid moved by 68 → 100366
+2025-06-15 01:25:49 INFO  HybridBot future_mid moved by 104 → 100262
+2025-06-15 01:25:51 INFO  HybridBot add_order_response: OK (req=0000000050)
+2025-06-15 01:25:51 INFO  HybridBot add_order_response: OK (req=0000000051)
+2025-06-15 01:25:51 INFO  HybridBot quoted $CARD_put_99000_60 @ 1/2
+2025-06-15 01:25:51 INFO  HybridBot cancel_order_response: OK (req=0000000052)
+2025-06-15 01:25:51 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:51 INFO  HybridBot future_mid moved by 23 → 100239
+2025-06-15 01:25:52 INFO  HybridBot future_mid moved by 23 → 100262
+2025-06-15 01:25:54 INFO  HybridBot add_order_response: OK (req=0000000054)
+2025-06-15 01:25:54 INFO  HybridBot add_order_response: FAIL (req=0000000055)
+2025-06-15 01:25:54 INFO  HybridBot cancel_order_response: OK (req=0000000056)
+2025-06-15 01:25:54 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:54 INFO  HybridBot future_mid moved by 263 → 99999
+2025-06-15 01:25:55 INFO  HybridBot future_mid moved by 23 → 99976
+2025-06-15 01:25:55 INFO  HybridBot future_mid moved by 218 → 100194
+2025-06-15 01:25:56 INFO  HybridBot future_mid moved by 23 → 100217
+2025-06-15 01:25:57 INFO  HybridBot add_order_response: OK (req=0000000058)
+2025-06-15 01:25:57 INFO  HybridBot add_order_response: FAIL (req=0000000059)
+2025-06-15 01:25:57 INFO  HybridBot cancel_order_response: OK (req=0000000060)
+2025-06-15 01:25:57 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:25:57 INFO  HybridBot future_mid moved by 72 → 100145
+2025-06-15 01:25:58 INFO  HybridBot future_mid moved by 299 → 100444
+2025-06-15 01:25:59 INFO  HybridBot future_mid moved by 146 → 100298
+2025-06-15 01:26:00 INFO  HybridBot future_mid moved by 322 → 99976
+2025-06-15 01:26:00 INFO  HybridBot add_order_response: OK (req=0000000062)
+2025-06-15 01:26:00 INFO  HybridBot add_order_response: FAIL (req=0000000063)
+2025-06-15 01:26:00 INFO  HybridBot add_order_response: OK (req=0000000064)
+2025-06-15 01:26:00 INFO  HybridBot delta hedge sell 4 @ 99976
+2025-06-15 01:26:00 INFO  HybridBot σ → 0.0028
+2025-06-15 01:26:00 INFO  HybridBot future_mid moved by 760 → 100736
+2025-06-15 01:26:00 INFO  HybridBot cancel_order_response: OK (req=0000000065)
+2025-06-15 01:26:00 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:26:04 INFO  HybridBot add_order_response: OK (req=0000000067)
+2025-06-15 01:26:04 INFO  HybridBot add_order_response: FAIL (req=0000000068)
+2025-06-15 01:26:04 INFO  HybridBot cancel_order_response: FAIL (req=0000000069)
+2025-06-15 01:26:04 INFO  HybridBot cancel_order_response: OK (req=0000000070)
+2025-06-15 01:26:04 INFO  HybridBot add_order_response: OK (req=0000000071)
+2025-06-15 01:26:04 INFO  HybridBot add_order_response: OK (req=0000000072)
+2025-06-15 01:26:04 INFO  HybridBot quoted $CARD_call_99000_60 @ 61874/62881
+2025-06-15 01:26:04 INFO  HybridBot cancel_order_response: OK (req=0000000073)
+2025-06-15 01:26:04 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:26:05 INFO  HybridBot future_mid moved by 203 → 100940
+2025-06-15 01:26:05 INFO  HybridBot future_mid moved by 93 → 101033
+2025-06-15 01:26:07 INFO  HybridBot add_order_response: OK (req=0000000075)
+2025-06-15 01:26:07 INFO  HybridBot add_order_response: FAIL (req=0000000076)
+2025-06-15 01:26:07 INFO  HybridBot cancel_order_response: FAIL (req=0000000077)
+2025-06-15 01:26:08 INFO  HybridBot cancel_order_response: OK (req=0000000078)
+2025-06-15 01:26:08 INFO  HybridBot add_order_response: OK (req=0000000079)
+2025-06-15 01:26:08 INFO  HybridBot add_order_response: OK (req=0000000080)
+2025-06-15 01:26:08 INFO  HybridBot quoted $CARD_call_98000_60 @ 87693/88703
+2025-06-15 01:26:08 INFO  HybridBot cancel_order_response: OK (req=0000000081)
+2025-06-15 01:26:08 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:26:11 INFO  HybridBot add_order_response: OK (req=0000000083)
+2025-06-15 01:26:11 INFO  HybridBot add_order_response: FAIL (req=0000000084)
+2025-06-15 01:26:11 INFO  HybridBot cancel_order_response: OK (req=0000000085)
+2025-06-15 01:26:11 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:26:14 INFO  HybridBot add_order_response: OK (req=0000000087)
+2025-06-15 01:26:15 INFO  HybridBot add_order_response: FAIL (req=0000000088)
+2025-06-15 01:26:16 INFO  HybridBot cancel_order_response: OK (req=0000000089)
+2025-06-15 01:26:18 INFO  HybridBot cancel_order_response: FAIL (req=0000000090)
+2025-06-15 01:26:22 INFO  HybridBot add_order_response: OK (req=0000000091)
+2025-06-15 01:26:26 INFO  HybridBot add_order_response: FAIL (req=0000000092)
+2025-06-15 01:26:27 INFO  HybridBot future_mid moved by 383 → 100651
+2025-06-15 01:26:28 INFO  HybridBot future_mid moved by 511 → 101162
+2025-06-15 01:26:29 INFO  HybridBot cancel_order_response: OK (req=0000000093)
+2025-06-15 01:26:29 INFO  HybridBot future_mid moved by 12 → 101150
+2025-06-15 01:26:34 INFO  HybridBot future_mid moved by 713 → 100437
+2025-06-15 01:26:36 INFO  HybridBot future_mid moved by 101 → 100538
+2025-06-15 01:26:40 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:26:42 INFO  HybridBot future_mid moved by 315 → 100853
+2025-06-15 01:27:03 INFO  HybridBot σ → 0.0037
+2025-06-15 01:27:36 ERROR HybridBot Connection closed: sent 1011 (internal error) keepalive ping timeout; no close frame received; reconnecting
+2025-06-15 01:27:36 ERROR HybridBot main_loop crashed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 255, in main_loop
+    await self.cancel(instr, b_id)
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 290, in cancel
+    return await self.send(cancel_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 222, in send
+    await self.ws.send(json.dumps(payload_dict))
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 476, in send
+    async with self.send_context():
+  File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 957, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-06-15 01:30:13 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:30:14 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:30:15 INFO  HybridBot Selected future: $CARD_future_330, expires in 330s
+2025-06-15 01:30:15 INFO  HybridBot future_mid → 100343
+2025-06-15 01:30:15 INFO  HybridBot Warm-up complete: 31 option series
+2025-06-15 01:30:15 INFO  HybridBot Trading loop start; T_remain=327.9s
+2025-06-15 01:30:15 INFO  HybridBot Using strikes: ['$CARD_call_100259_285', '$CARD_call_100157_315', '$CARD_call_100648_300', '$CARD_call_99641_300', '$CARD_call_101169_315', '$CARD_put_100259_285', '$CARD_put_100157_315', '$CARD_put_100648_300', '$CARD_put_99641_300', '$CARD_put_101169_315']
+2025-06-15 01:30:15 INFO  HybridBot σ → 0.0003
+2025-06-15 01:31:09 INFO  HybridBot future_mid moved by 381 → 99962
+2025-06-15 01:31:12 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:31:14 ERROR HybridBot Receive loop error (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
+2025-06-15 01:31:15 ERROR HybridBot Buy failed (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
+2025-06-15 01:31:16 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:31:21 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:31:21 INFO  HybridBot arb mis=-1313: buy $CARD_call_100259_285/$CARD_put_100259_285
+2025-06-15 01:31:30 ERROR HybridBot main_loop crashed
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 296, in main_loop
+    midp = self.option_mids[p][-1]
+           ~~~~~~~~~~~~~~~~^^^
+KeyError: '$CARD_put_100157_315'
+2025-06-15 01:32:10 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 351958
+2025-06-15 01:32:26 ERROR HybridBot Receive loop error (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
+2025-06-15 01:32:31 ERROR HybridBot Receive loop error (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
