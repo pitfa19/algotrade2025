@@ -16,24 +16,73 @@ class InfoPoller:
         self.uri = f"{uri}?team_secret={team_secret}"
         self.ws = None
         self._pending: Dict[str, asyncio.Future] = {}
+        self._connected = False
+        self._last_ping = datetime.now()
+        self._ping_interval = 30  # seconds
 
     async def connect(self):
-        self.ws = await websockets.connect(self.uri)
-        welcome_data = json.loads(await self.ws.recv())
-        welcome_message = WelcomeMessage(**welcome_data)
-        print(json.dumps({"welcome": asdict(welcome_message)}, indent=2))
-        asyncio.create_task(self._receive_loop())
+        while True:
+            try:
+                print("Connecting to exchange...")
+                self.ws = await websockets.connect(
+                    self.uri,
+                    ping_interval=20,  # Send ping every 20 seconds
+                    ping_timeout=10,   # Wait 10 seconds for pong response
+                    close_timeout=10   # Wait 10 seconds for close response
+                )
+                welcome_data = json.loads(await self.ws.recv())
+                welcome_message = WelcomeMessage(**welcome_data)
+                print(json.dumps({"welcome": asdict(welcome_message)}, indent=2))
+                self._connected = True
+                
+                # Start the receive loop
+                asyncio.create_task(self._receive_loop())
+                # Start the ping loop
+                asyncio.create_task(self._ping_loop())
+                break
+            except Exception as e:
+                print(f"Connection failed: {e}")
+                print("Retrying in 5 seconds...")
+                await asyncio.sleep(5)
+
+    async def _ping_loop(self):
+        while self._connected:
+            try:
+                if self.ws and not self.ws.closed:
+                    await self.ws.ping()
+                    self._last_ping = datetime.now()
+                await asyncio.sleep(self._ping_interval)
+            except Exception as e:
+                print(f"Ping failed: {e}")
+                self._connected = False
+                break
 
     async def _receive_loop(self):
-        assert self.ws, "Websocket connection not established."
-        async for msg in self.ws:
-            data = json.loads(msg)
-            rid = data.get("user_request_id")
-            if rid and rid in self._pending:
-                self._pending[rid].set_result(data)
-                del self._pending[rid]
+        while self._connected:
+            try:
+                assert self.ws, "Websocket connection not established."
+                async for msg in self.ws:
+                    data = json.loads(msg)
+                    rid = data.get("user_request_id")
+                    if rid and rid in self._pending:
+                        self._pending[rid].set_result(data)
+                        del self._pending[rid]
+            except websockets.exceptions.ConnectionClosed:
+                print("Connection closed, attempting to reconnect...")
+                self._connected = False
+                break
+            except Exception as e:
+                print(f"Error in receive loop: {e}")
+                self._connected = False
+                break
+
+    async def ensure_connection(self):
+        if not self._connected or not self.ws or self.ws.closed:
+            await self.connect()
 
     async def send(self, payload: BaseMessage, timeout: int = 3):
+        await self.ensure_connection()
+        
         global global_user_request_id
         rid = str(global_user_request_id).zfill(10)
         global_user_request_id += 1
@@ -44,7 +93,12 @@ class InfoPoller:
         fut = asyncio.get_event_loop().create_future()
         self._pending[rid] = fut
 
-        await self.ws.send(json.dumps(payload_dict))
+        try:
+            await self.ws.send(json.dumps(payload_dict))
+        except Exception as e:
+            print(f"Send failed: {e}")
+            self._connected = False
+            return {"success": False, "message": f"Send failed: {e}"}
 
         try:
             resp = await asyncio.wait_for(fut, timeout)
@@ -103,6 +157,11 @@ class InfoPoller:
     async def poll_info(self):
         while True:
             try:
+                if not self._connected:
+                    print("Connection lost, attempting to reconnect...")
+                    await self.connect()
+                    continue
+
                 print(f"\n=== Polling at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===")
                 
                 # Get inventory
@@ -124,6 +183,7 @@ class InfoPoller:
 
             except Exception as e:
                 print(f"Error during polling: {e}")
+                self._connected = False
                 await asyncio.sleep(1)  # Still wait 1 second even if there's an error
 
 async def main():
