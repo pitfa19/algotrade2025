@@ -421,7 +421,7 @@ class DemoTradingBot:
 
 async def main():
     EXCHANGE_URI = "ws://192.168.100.10:9001/trade"
-    TEAM_SECRET = "YOUR_TEAM_SECRET"
+    TEAM_SECRET = "9dd0a684-c786-4500-a04b-91b777385403" #9dd0a684-c786-4500-a04b-91b777385403
 
     bot = DemoTradingBot(
         EXCHANGE_URI,
