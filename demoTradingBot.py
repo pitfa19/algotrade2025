@@ -145,8 +145,8 @@ class DemoTradingBot:
         async for msg in self.ws:
             data = json.loads(msg)
 
-            if not (data.get("type") == "market_data_update" and not self.print_market_data):
-                print(json.dumps({"message": data}, indent=2))
+            # if not (data.get("type") == "market_data_update" and not self.print_market_data):
+            #     print(json.dumps({"message": data}, indent=2))
 
             rid = data.get("user_request_id")
             if rid and rid in self._pending:
@@ -421,7 +421,7 @@ class DemoTradingBot:
 
 async def main():
     EXCHANGE_URI = "ws://192.168.100.10:9001/trade"
-    TEAM_SECRET = "9dd0a684-c786-4500-a04b-91b777385403" #9dd0a684-c786-4500-a04b-91b777385403
+    TEAM_SECRET = "9dd0a684-c786-4500-a04b-91b777385403"
 
     bot = DemoTradingBot(
         EXCHANGE_URI,
