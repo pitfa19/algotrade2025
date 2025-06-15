@@ -1,4 +1,4 @@
-#!/home/pitfa/Documents/algotrade/.venv/bin/python
+#!/home/slowcured/Documents/hackathon/algotrade/algotrade/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
