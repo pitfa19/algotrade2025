@@ -989,3 +989,1005 @@ KeyError: '$CARD_put_100157_315'
 2025-06-15 01:32:10 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 351958
 2025-06-15 01:32:26 ERROR HybridBot Receive loop error (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
 2025-06-15 01:32:31 ERROR HybridBot Receive loop error (sent 1011 (internal error) keepalive ping timeout; no close frame received); reconnecting
+2025-06-15 01:34:20 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:34:30 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:34:37 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:34:51 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:35:03 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:41:44 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:41:44 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:41:45 INFO  HybridBot Selected future: $CARD_future_1035, expires in 1035s
+2025-06-15 01:41:49 INFO  HybridBot future_mid → 99383
+2025-06-15 01:41:49 INFO  HybridBot Warm-up complete: 32 option series
+2025-06-15 01:41:49 INFO  HybridBot T_remain=1030.0s
+2025-06-15 01:41:49 INFO  HybridBot Strikes: ['$CARD_call_99228_990', '$CARD_call_99786_1005', '$CARD_call_99916_1020', '$CARD_call_98808_1005', '$CARD_call_100221_990', '$CARD_put_99228_990', '$CARD_put_99786_1005', '$CARD_put_99916_1020', '$CARD_put_98808_1005', '$CARD_put_100221_990']
+2025-06-15 01:41:49 INFO  HybridBot σ: 0.2000→0.0007
+2025-06-15 01:41:49 INFO  HybridBot future_mid moved by 328 → 99055
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 01:41:50 INFO  HybridBot future_mid moved by 1146 → 100201
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000001)
+2025-06-15 01:41:50 INFO  HybridBot quoted $CARD_call_99228_990@6283/7276
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000002)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000003)
+2025-06-15 01:41:50 INFO  HybridBot quoted $CARD_call_99786_1005@16161/17163
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000004)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000005)
+2025-06-15 01:41:50 INFO  HybridBot quoted $CARD_call_99916_1020@11245/12247
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000006)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000007)
+2025-06-15 01:41:50 INFO  HybridBot quoted $CARD_call_98808_1005@50026/51028
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000008)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: FAIL (req=0000000009)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: OK (req=0000000010)
+2025-06-15 01:41:50 INFO  HybridBot add_order_response: FAIL (req=0000000011)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: OK (req=0000000012)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: FAIL (req=0000000013)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: OK (req=0000000014)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: FAIL (req=0000000015)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: OK (req=0000000016)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: FAIL (req=0000000017)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: OK (req=0000000018)
+2025-06-15 01:41:51 INFO  HybridBot add_order_response: FAIL (req=0000000019)
+2025-06-15 01:41:51 INFO  HybridBot T_remain=1027.7s
+2025-06-15 01:41:51 INFO  HybridBot Strikes: ['$CARD_call_100221_990', '$CARD_call_99916_1020', '$CARD_call_100563_1035', '$CARD_call_99786_1005', '$CARD_call_100936_1020', '$CARD_put_100221_990', '$CARD_put_99916_1020', '$CARD_put_100563_1035', '$CARD_put_99786_1005', '$CARD_put_100936_1020']
+2025-06-15 01:41:51 INFO  HybridBot σ: 0.0007→0.0004
+2025-06-15 01:41:51 INFO  HybridBot cancel_order_response: OK (req=0000000020)
+2025-06-15 01:41:51 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:41:52 INFO  HybridBot future_mid moved by 1073 → 101274
+2025-06-15 01:41:54 INFO  HybridBot future_mid moved by 22 → 101252
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000022)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: FAIL (req=0000000023)
+2025-06-15 01:41:54 INFO  HybridBot cancel_order_response: FAIL (req=0000000024)
+2025-06-15 01:41:54 INFO  HybridBot cancel_order_response: OK (req=0000000025)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000026)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000027)
+2025-06-15 01:41:54 INFO  HybridBot quoted $CARD_call_99916_1020@76697/77709
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000028)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000029)
+2025-06-15 01:41:54 INFO  HybridBot quoted $CARD_call_100563_1035@45930/46942
+2025-06-15 01:41:54 INFO  HybridBot cancel_order_response: FAIL (req=0000000030)
+2025-06-15 01:41:54 INFO  HybridBot cancel_order_response: OK (req=0000000031)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000032)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000033)
+2025-06-15 01:41:54 INFO  HybridBot quoted $CARD_call_99786_1005@81011/82023
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000034)
+2025-06-15 01:41:54 INFO  HybridBot add_order_response: OK (req=0000000035)
+2025-06-15 01:41:54 INFO  HybridBot quoted $CARD_call_100936_1020@22052/23064
+2025-06-15 01:41:54 INFO  HybridBot cancel_order_response: OK (req=0000000036)
+2025-06-15 01:41:54 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:41:57 INFO  HybridBot future_mid moved by 18 → 101234
+2025-06-15 01:41:58 INFO  HybridBot add_order_response: OK (req=0000000038)
+2025-06-15 01:41:58 INFO  HybridBot add_order_response: FAIL (req=0000000039)
+2025-06-15 01:41:58 INFO  HybridBot cancel_order_response: OK (req=0000000040)
+2025-06-15 01:41:58 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:01 INFO  HybridBot future_mid moved by 22 → 101256
+2025-06-15 01:42:02 INFO  HybridBot add_order_response: OK (req=0000000042)
+2025-06-15 01:42:02 INFO  HybridBot future_mid moved by 25 → 101281
+2025-06-15 01:42:03 INFO  HybridBot add_order_response: FAIL (req=0000000043)
+2025-06-15 01:42:03 INFO  HybridBot future_mid moved by 176 → 101105
+2025-06-15 01:42:04 INFO  HybridBot add_order_response: OK (req=0000000044)
+2025-06-15 01:42:04 INFO  HybridBot future_mid moved by 149 → 100956
+2025-06-15 01:42:04 INFO  HybridBot future_mid moved by 226 → 100730
+2025-06-15 01:42:04 INFO  HybridBot add_order_response: FAIL (req=0000000045)
+2025-06-15 01:42:05 INFO  HybridBot cancel_order_response: OK (req=0000000046)
+2025-06-15 01:42:05 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:06 INFO  HybridBot future_mid moved by 114 → 100844
+2025-06-15 01:42:06 INFO  HybridBot future_mid moved by 682 → 100162
+2025-06-15 01:42:07 INFO  HybridBot future_mid moved by 57 → 100105
+2025-06-15 01:42:07 INFO  HybridBot future_mid moved by 57 → 100162
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000048)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: FAIL (req=0000000049)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000050)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: FAIL (req=0000000051)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000052)
+2025-06-15 01:42:08 INFO  HybridBot delta hedge buy 2@100162
+2025-06-15 01:42:08 INFO  HybridBot arb mis=39236: sell $CARD_call_99916_1020/$CARD_put_99916_1020
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000053)
+2025-06-15 01:42:08 INFO  HybridBot future_mid moved by 107 → 100269
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000054)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000055)
+2025-06-15 01:42:08 INFO  HybridBot arb mis=23255: sell $CARD_call_100563_1035/$CARD_put_100563_1035
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: FAIL (req=0000000056)
+2025-06-15 01:42:08 INFO  HybridBot add_order_response: OK (req=0000000057)
+2025-06-15 01:42:08 INFO  HybridBot future_mid moved by 53 → 100322
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000058)
+2025-06-15 01:42:09 INFO  HybridBot arb mis=40750: sell $CARD_call_99786_1005/$CARD_put_99786_1005
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000059)
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000060)
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000061)
+2025-06-15 01:42:09 INFO  HybridBot arb mis=11996: sell $CARD_call_100936_1020/$CARD_put_100936_1020
+2025-06-15 01:42:09 INFO  HybridBot future_mid moved by 27 → 100349
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: FAIL (req=0000000062)
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000063)
+2025-06-15 01:42:09 INFO  HybridBot add_order_response: OK (req=0000000064)
+2025-06-15 01:42:09 INFO  HybridBot T_remain=1009.8s
+2025-06-15 01:42:09 INFO  HybridBot Strikes: ['$CARD_call_100221_990', '$CARD_call_100563_1035', '$CARD_call_100778_1050', '$CARD_call_99916_1020', '$CARD_call_99786_1005', '$CARD_put_100221_990', '$CARD_put_100563_1035', '$CARD_put_100778_1050', '$CARD_put_99916_1020', '$CARD_put_99786_1005']
+2025-06-15 01:42:09 INFO  HybridBot σ: 0.0004→0.0074
+2025-06-15 01:42:09 INFO  HybridBot future_mid moved by 13 → 100362
+2025-06-15 01:42:09 INFO  HybridBot cancel_order_response: FAIL (req=0000000065)
+2025-06-15 01:42:09 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:10 INFO  HybridBot future_mid moved by 93 → 100269
+2025-06-15 01:42:12 INFO  HybridBot future_mid moved by 289 → 99980
+2025-06-15 01:42:12 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1003298
+2025-06-15 01:42:12 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1003324
+2025-06-15 01:42:12 INFO  HybridBot cancel_order_response: FAIL (req=0000000069)
+2025-06-15 01:42:12 INFO  HybridBot cancel_order_response: OK (req=0000000070)
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000071)
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000072)
+2025-06-15 01:42:12 INFO  HybridBot quoted $CARD_call_100563_1035@6591/7590
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000073)
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000074)
+2025-06-15 01:42:12 INFO  HybridBot quoted $CARD_call_100778_1050@5765/6764
+2025-06-15 01:42:12 INFO  HybridBot cancel_order_response: FAIL (req=0000000075)
+2025-06-15 01:42:12 INFO  HybridBot cancel_order_response: OK (req=0000000076)
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000077)
+2025-06-15 01:42:12 INFO  HybridBot add_order_response: OK (req=0000000078)
+2025-06-15 01:42:12 INFO  HybridBot quoted $CARD_call_99916_1020@9074/10073
+2025-06-15 01:42:13 INFO  HybridBot cancel_order_response: FAIL (req=0000000079)
+2025-06-15 01:42:13 INFO  HybridBot cancel_order_response: OK (req=0000000080)
+2025-06-15 01:42:13 INFO  HybridBot add_order_response: OK (req=0000000081)
+2025-06-15 01:42:13 INFO  HybridBot add_order_response: OK (req=0000000082)
+2025-06-15 01:42:13 INFO  HybridBot quoted $CARD_call_99786_1005@9572/10571
+2025-06-15 01:42:13 INFO  HybridBot cancel_order_response: FAIL (req=0000000083)
+2025-06-15 01:42:13 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:13 INFO  HybridBot future_mid moved by 80 → 100060
+2025-06-15 01:42:16 INFO  HybridBot future_mid moved by 185 → 100245
+2025-06-15 01:42:17 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1006824
+2025-06-15 01:42:17 INFO  HybridBot future_mid moved by 148 → 100393
+2025-06-15 01:42:18 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1008331
+2025-06-15 01:42:18 INFO  HybridBot cancel_order_response: OK (req=0000000087)
+2025-06-15 01:42:18 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:21 INFO  HybridBot add_order_response: OK (req=0000000089)
+2025-06-15 01:42:21 INFO  HybridBot add_order_response: OK (req=0000000090)
+2025-06-15 01:42:21 INFO  HybridBot quoted $CARD_put_100563_1035@1/579
+2025-06-15 01:42:21 INFO  HybridBot add_order_response: OK (req=0000000091)
+2025-06-15 01:42:21 INFO  HybridBot add_order_response: FAIL (req=0000000092)
+2025-06-15 01:42:21 INFO  HybridBot cancel_order_response: OK (req=0000000093)
+2025-06-15 01:42:21 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:21 INFO  HybridBot future_mid moved by 235 → 100159
+2025-06-15 01:42:22 INFO  HybridBot future_mid moved by 221 → 100380
+2025-06-15 01:42:23 INFO  HybridBot future_mid moved by 134 → 100514
+2025-06-15 01:42:24 INFO  HybridBot add_order_response: OK (req=0000000095)
+2025-06-15 01:42:24 INFO  HybridBot add_order_response: OK (req=0000000096)
+2025-06-15 01:42:24 INFO  HybridBot quoted $CARD_put_99916_1020@1/288
+2025-06-15 01:42:24 INFO  HybridBot cancel_order_response: FAIL (req=0000000097)
+2025-06-15 01:42:25 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:25 INFO  HybridBot future_mid moved by 222 → 100292
+2025-06-15 01:42:26 INFO  HybridBot future_mid moved by 25 → 100317
+2025-06-15 01:42:26 INFO  HybridBot future_mid moved by 1842 → 102159
+2025-06-15 01:42:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1018736
+2025-06-15 01:42:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1018826
+2025-06-15 01:42:28 INFO  HybridBot add_order_response: OK (req=0000000101)
+2025-06-15 01:42:28 INFO  HybridBot delta hedge sell 3@102159
+2025-06-15 01:42:28 INFO  HybridBot arb mis=-2210: buy $CARD_call_100221_990/$CARD_put_100221_990
+2025-06-15 01:42:28 INFO  HybridBot future_mid moved by 48 → 102111
+2025-06-15 01:42:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1019225
+2025-06-15 01:42:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1000000 server: 1019538
+2025-06-15 01:42:29 INFO  HybridBot add_order_response: OK (req=0000000104)
+2025-06-15 01:42:29 INFO  HybridBot future_mid moved by 24 → 102135
+2025-06-15 01:42:29 INFO  HybridBot arb mis=-1269: buy $CARD_call_100563_1035/$CARD_put_100563_1035
+2025-06-15 01:42:29 INFO  HybridBot add_order_response: OK (req=0000000105)
+2025-06-15 01:42:29 INFO  HybridBot add_order_response: FAIL (req=0000000106)
+2025-06-15 01:42:30 INFO  HybridBot add_order_response: OK (req=0000000107)
+2025-06-15 01:42:30 INFO  HybridBot future_mid moved by 12 → 102147
+2025-06-15 01:42:30 INFO  HybridBot arb mis=-1496: buy $CARD_call_100778_1050/$CARD_put_100778_1050
+2025-06-15 01:42:31 INFO  HybridBot add_order_response: OK (req=0000000108)
+2025-06-15 01:42:31 INFO  HybridBot add_order_response: FAIL (req=0000000109)
+2025-06-15 01:42:31 INFO  HybridBot add_order_response: OK (req=0000000110)
+2025-06-15 01:42:31 INFO  HybridBot arb mis=4232: sell $CARD_call_99916_1020/$CARD_put_99916_1020
+2025-06-15 01:42:31 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:31 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:31 INFO  HybridBot add_order_response: OK (req=0000000113)
+2025-06-15 01:42:31 INFO  HybridBot arb mis=3830: sell $CARD_call_99786_1005/$CARD_put_99786_1005
+2025-06-15 01:42:32 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1022681
+2025-06-15 01:42:32 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1023046
+2025-06-15 01:42:32 INFO  HybridBot add_order_response: FAIL (req=0000000116)
+2025-06-15 01:42:32 INFO  HybridBot T_remain=986.8s
+2025-06-15 01:42:32 INFO  HybridBot Strikes: ['$CARD_call_102247_1065', '$CARD_call_101984_1080', '$CARD_call_101955_1020', '$CARD_call_101785_1050', '$CARD_call_102616_1035', '$CARD_put_102247_1065', '$CARD_put_101984_1080', '$CARD_put_101955_1020', '$CARD_put_101785_1050', '$CARD_put_102616_1035']
+2025-06-15 01:42:32 INFO  HybridBot σ: 0.0074→0.0002
+2025-06-15 01:42:32 INFO  HybridBot add_order_response: OK (req=0000000117)
+2025-06-15 01:42:32 INFO  HybridBot add_order_response: FAIL (req=0000000118)
+2025-06-15 01:42:32 INFO  HybridBot add_order_response: FAIL (req=0000000119)
+2025-06-15 01:42:32 INFO  HybridBot add_order_response: FAIL (req=0000000120)
+2025-06-15 01:42:32 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:32 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000123)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000124)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: OK (req=0000000125)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000126)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: OK (req=0000000127)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000128)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: OK (req=0000000129)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000130)
+2025-06-15 01:42:33 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:33 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: OK (req=0000000133)
+2025-06-15 01:42:33 INFO  HybridBot add_order_response: FAIL (req=0000000134)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: OK (req=0000000135)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000136)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000137)
+2025-06-15 01:42:34 INFO  HybridBot arb mis=-2320: buy $CARD_call_102247_1065/$CARD_put_102247_1065
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: OK (req=0000000138)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000139)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000140)
+2025-06-15 01:42:34 INFO  HybridBot arb mis=-2051: buy $CARD_call_101984_1080/$CARD_put_101984_1080
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: OK (req=0000000141)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000142)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000143)
+2025-06-15 01:42:34 INFO  HybridBot arb mis=-2289: buy $CARD_call_101785_1050/$CARD_put_101785_1050
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: OK (req=0000000144)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000145)
+2025-06-15 01:42:34 INFO  HybridBot add_order_response: FAIL (req=0000000146)
+2025-06-15 01:42:34 INFO  HybridBot arb mis=-1412: buy $CARD_call_102616_1035/$CARD_put_102616_1035
+2025-06-15 01:42:35 INFO  HybridBot add_order_response: OK (req=0000000147)
+2025-06-15 01:42:35 INFO  HybridBot add_order_response: FAIL (req=0000000148)
+2025-06-15 01:42:35 INFO  HybridBot add_order_response: FAIL (req=0000000149)
+2025-06-15 01:42:35 INFO  HybridBot T_remain=984.1s
+2025-06-15 01:42:35 INFO  HybridBot Strikes: ['$CARD_call_102247_1065', '$CARD_call_101984_1080', '$CARD_call_101955_1020', '$CARD_call_101785_1050', '$CARD_call_102616_1035', '$CARD_put_102247_1065', '$CARD_put_101984_1080', '$CARD_put_101955_1020', '$CARD_put_101785_1050', '$CARD_put_102616_1035']
+2025-06-15 01:42:35 INFO  HybridBot σ: 0.0002→0.0002
+2025-06-15 01:42:35 INFO  HybridBot cancel_order_response: OK (req=0000000150)
+2025-06-15 01:42:35 INFO  HybridBot future_mid moved by 36 → 102111
+2025-06-15 01:42:35 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:36 INFO  HybridBot future_mid moved by 293 → 101818
+2025-06-15 01:42:37 INFO  HybridBot future_mid moved by 204 → 101614
+2025-06-15 01:42:38 INFO  HybridBot add_order_response: OK (req=0000000152)
+2025-06-15 01:42:38 INFO  HybridBot add_order_response: OK (req=0000000153)
+2025-06-15 01:42:38 INFO  HybridBot quoted $CARD_call_102247_1065@1/2
+2025-06-15 01:42:38 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:38 INFO  HybridBot future_mid moved by 63 → 101551
+2025-06-15 01:42:39 INFO  HybridBot future_mid moved by 29 → 101522
+2025-06-15 01:42:41 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:42 INFO  HybridBot future_mid moved by 184 → 101706
+2025-06-15 01:42:43 INFO  HybridBot future_mid moved by 1929 → 99777
+2025-06-15 01:42:43 INFO  HybridBot future_mid moved by 203 → 99574
+2025-06-15 01:42:46 INFO  HybridBot add_order_response: OK (req=0000000156)
+2025-06-15 01:42:50 INFO  HybridBot add_order_response: FAIL (req=0000000157)
+2025-06-15 01:42:51 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:53 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:56 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1046725
+2025-06-15 01:42:56 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1046859
+2025-06-15 01:42:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:42:59 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:02 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:43:03 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:43:03 INFO  HybridBot cancel_order_response: FAIL (req=0000000166)
+2025-06-15 01:43:03 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:06 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1057504
+2025-06-15 01:43:06 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1057529
+2025-06-15 01:43:06 INFO  HybridBot cancel_order_response: OK (req=0000000170)
+2025-06-15 01:43:06 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:09 INFO  HybridBot add_order_response: OK (req=0000000172)
+2025-06-15 01:43:09 INFO  HybridBot add_order_response: FAIL (req=0000000173)
+2025-06-15 01:43:09 INFO  HybridBot cancel_order_response: OK (req=0000000174)
+2025-06-15 01:43:10 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:13 INFO  HybridBot add_order_response: OK (req=0000000176)
+2025-06-15 01:43:13 INFO  HybridBot add_order_response: FAIL (req=0000000177)
+2025-06-15 01:43:13 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:17 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:19 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1069826
+2025-06-15 01:43:20 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1070433
+2025-06-15 01:43:20 INFO  HybridBot cancel_order_response: FAIL (req=0000000182)
+2025-06-15 01:43:20 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:23 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1074263
+2025-06-15 01:43:23 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1074396
+2025-06-15 01:43:23 INFO  HybridBot cancel_order_response: FAIL (req=0000000186)
+2025-06-15 01:43:23 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:26 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1077524
+2025-06-15 01:43:26 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1077627
+2025-06-15 01:43:26 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1077693
+2025-06-15 01:43:26 INFO  HybridBot arb mis=3417: sell $CARD_call_101955_1020/$CARD_put_101955_1020
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1077732
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1030000 server: 1077939
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1078055
+2025-06-15 01:43:27 INFO  HybridBot arb mis=1091: sell $CARD_call_102616_1035/$CARD_put_102616_1035
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1078181
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1078442
+2025-06-15 01:43:27 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1078498
+2025-06-15 01:43:27 INFO  HybridBot T_remain=931.4s
+2025-06-15 01:43:27 INFO  HybridBot Strikes: ['$CARD_call_99659_1125', '$CARD_call_99742_1110', '$CARD_call_99770_1050', '$CARD_call_99786_1005', '$CARD_call_99273_1095', '$CARD_put_99659_1125', '$CARD_put_99742_1110', '$CARD_put_99770_1050', '$CARD_put_99786_1005', '$CARD_put_99273_1095']
+2025-06-15 01:43:27 INFO  HybridBot σ: 0.0002→0.0016
+2025-06-15 01:43:27 INFO  HybridBot add_order_response: OK (req=0000000197)
+2025-06-15 01:43:27 INFO  HybridBot add_order_response: FAIL (req=0000000198)
+2025-06-15 01:43:27 INFO  HybridBot add_order_response: OK (req=0000000199)
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: FAIL (req=0000000200)
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1078825
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1078881
+2025-06-15 01:43:28 INFO  HybridBot cancel_order_response: FAIL (req=0000000203)
+2025-06-15 01:43:28 INFO  HybridBot cancel_order_response: FAIL (req=0000000204)
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1079045
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1079148
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: OK (req=0000000207)
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: OK (req=0000000208)
+2025-06-15 01:43:28 INFO  HybridBot quoted $CARD_call_99273_1095@6502/7497
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: OK (req=0000000209)
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: FAIL (req=0000000210)
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: OK (req=0000000211)
+2025-06-15 01:43:28 INFO  HybridBot add_order_response: FAIL (req=0000000212)
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1079557
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Expiry must be in the future request: 1060000 server: 1079579
+2025-06-15 01:43:28 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:33 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1085638
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1085776
+2025-06-15 01:43:35 INFO  HybridBot add_order_response: OK (req=0000000219)
+2025-06-15 01:43:35 INFO  HybridBot add_order_response: FAIL (req=0000000220)
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1085924
+2025-06-15 01:43:35 INFO  HybridBot arb mis=6412: sell $CARD_call_99786_1005/$CARD_put_99786_1005
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1085991
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1015000 server: 1086033
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1086305
+2025-06-15 01:43:35 INFO  HybridBot arb mis=3752: sell $CARD_call_99273_1095/$CARD_put_99273_1095
+2025-06-15 01:43:35 INFO  HybridBot add_order_response: FAIL (req=0000000225)
+2025-06-15 01:43:35 INFO  HybridBot add_order_response: OK (req=0000000226)
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Expiry must be in the future request: 1045000 server: 1086397
+2025-06-15 01:43:35 INFO  HybridBot T_remain=923.5s
+2025-06-15 01:43:35 INFO  HybridBot Strikes: ['$CARD_call_99659_1125', '$CARD_call_99742_1110', '$CARD_call_99770_1050', '$CARD_call_99786_1005', '$CARD_call_99273_1095', '$CARD_put_99659_1125', '$CARD_put_99742_1110', '$CARD_put_99770_1050', '$CARD_put_99786_1005', '$CARD_put_99273_1095']
+2025-06-15 01:43:35 INFO  HybridBot σ: 0.0016→0.0022
+2025-06-15 01:43:35 INFO  HybridBot cancel_order_response: OK (req=0000000228)
+2025-06-15 01:43:35 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:38 INFO  HybridBot add_order_response: OK (req=0000000230)
+2025-06-15 01:43:38 INFO  HybridBot add_order_response: OK (req=0000000231)
+2025-06-15 01:43:38 INFO  HybridBot quoted $CARD_call_99659_1125@1030/2025
+2025-06-15 01:43:38 INFO  HybridBot cancel_order_response: OK (req=0000000232)
+2025-06-15 01:43:39 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:41 INFO  HybridBot add_order_response: OK (req=0000000234)
+2025-06-15 01:43:41 INFO  HybridBot add_order_response: FAIL (req=0000000235)
+2025-06-15 01:43:41 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:43:43 ERROR HybridBot Connection closed: no close frame received or sent; reconnecting
+2025-06-15 01:43:44 ERROR HybridBot main_loop crashed
+Traceback (most recent call last):
+  File "/home/pitfa/Documents/algotrade/hybridBot.py", line 235, in main_loop
+    await self.cancel(instr,a_id)
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 290, in cancel
+    return await self.send(cancel_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/demoTradingBot.py", line 222, in send
+    await self.ws.send(json.dumps(payload_dict))
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 476, in send
+    async with self.send_context():
+  File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pitfa/Documents/algotrade/.venv/lib/python3.12/site-packages/websockets/asyncio/connection.py", line 957, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: no close frame received or sent
+2025-06-15 01:49:44 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 01:49:44 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 01:49:44 INFO  HybridBot Selected future: $CARD_future_330, expires in 330s
+2025-06-15 01:49:44 INFO  HybridBot future_mid → 100075
+2025-06-15 01:49:45 INFO  HybridBot Warm-up complete: 30 option series
+2025-06-15 01:49:45 INFO  HybridBot T_remain=329.7s
+2025-06-15 01:49:45 INFO  HybridBot Strikes: ['$CARD_call_100157_315', '$CARD_call_99899_285', '$CARD_call_100388_330', '$CARD_call_99659_300', '$CARD_call_100676_300', '$CARD_put_99899_285', '$CARD_put_99659_300']
+2025-06-15 01:49:45 INFO  HybridBot σ 0.2000→0.0013
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000001)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000002)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000003)
+2025-06-15 01:49:45 INFO  HybridBot quoted $CARD_call_99899_285@6556/7556
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000004)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000005)
+2025-06-15 01:49:45 INFO  HybridBot future_mid moved by 39 → 100039
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000006)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000007)
+2025-06-15 01:49:45 INFO  HybridBot quoted $CARD_call_99659_300@14947/15947
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000008)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000009)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000010)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000011)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000012)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000013)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000014)
+2025-06-15 01:49:45 INFO  HybridBot arb mis=1617:sell$CARD_call_99899_285/$CARD_put_99899_285
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: FAIL (req=0000000015)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000016)
+2025-06-15 01:49:45 INFO  HybridBot add_order_response: OK (req=0000000017)
+2025-06-15 01:49:45 INFO  HybridBot future_mid moved by 233 → 100272
+2025-06-15 01:49:45 INFO  HybridBot T_remain=329.1s
+2025-06-15 01:49:45 INFO  HybridBot Strikes: ['$CARD_call_100157_315', '$CARD_call_100388_330', '$CARD_call_99899_285', '$CARD_call_100676_300', '$CARD_call_99659_300', '$CARD_put_99899_285', '$CARD_put_99659_300']
+2025-06-15 01:49:45 INFO  HybridBot σ 0.0013→0.0012
+2025-06-15 01:49:45 INFO  HybridBot cancel_order_response: OK (req=0000000018)
+2025-06-15 01:49:45 INFO  HybridBot future_mid moved by 235 → 100037
+2025-06-15 01:49:45 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:49:46 INFO  HybridBot future_mid moved by 148 → 100185
+2025-06-15 01:49:46 INFO  HybridBot future_mid moved by 58 → 100127
+2025-06-15 01:49:47 INFO  HybridBot future_mid moved by 209 → 100336
+2025-06-15 01:49:47 INFO  HybridBot future_mid moved by 209 → 100127
+2025-06-15 01:49:50 INFO  HybridBot future_mid moved by 120 → 100007
+2025-06-15 01:49:50 INFO  HybridBot add_order_response: OK (req=0000000020)
+2025-06-15 01:49:51 INFO  HybridBot future_mid moved by 100 → 99907
+2025-06-15 01:49:51 INFO  HybridBot future_mid moved by 34 → 99941
+2025-06-15 01:49:51 INFO  HybridBot future_mid moved by 186 → 100127
+2025-06-15 01:49:52 INFO  HybridBot add_order_response: OK (req=0000000021)
+2025-06-15 01:49:52 INFO  HybridBot quoted $CARD_call_100157_315@4530/5532
+2025-06-15 01:49:52 INFO  HybridBot future_mid moved by 46 → 100173
+2025-06-15 01:49:52 INFO  HybridBot future_mid moved by 46 → 100127
+2025-06-15 01:49:52 INFO  HybridBot cancel_order_response: OK (req=0000000022)
+2025-06-15 01:49:52 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:49:53 INFO  HybridBot future_mid moved by 230 → 99897
+2025-06-15 01:49:54 INFO  HybridBot future_mid moved by 155 → 100052
+2025-06-15 01:49:54 INFO  HybridBot future_mid moved by 155 → 99897
+2025-06-15 01:49:55 INFO  HybridBot add_order_response: OK (req=0000000024)
+2025-06-15 01:49:55 INFO  HybridBot add_order_response: FAIL (req=0000000025)
+2025-06-15 01:49:56 INFO  HybridBot cancel_order_response: FAIL (req=0000000026)
+2025-06-15 01:49:56 INFO  HybridBot cancel_order_response: FAIL (req=0000000027)
+2025-06-15 01:49:56 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:49:56 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:49:56 INFO  HybridBot cancel_order_response: OK (req=0000000030)
+2025-06-15 01:49:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:49:56 INFO  HybridBot future_mid moved by 156 → 100053
+2025-06-15 01:49:58 INFO  HybridBot future_mid moved by 341 → 100394
+2025-06-15 01:49:59 INFO  HybridBot future_mid moved by 176 → 100570
+2025-06-15 01:49:59 INFO  HybridBot add_order_response: OK (req=0000000032)
+2025-06-15 01:49:59 INFO  HybridBot add_order_response: FAIL (req=0000000033)
+2025-06-15 01:49:59 INFO  HybridBot cancel_order_response: FAIL (req=0000000034)
+2025-06-15 01:49:59 INFO  HybridBot cancel_order_response: OK (req=0000000035)
+2025-06-15 01:49:59 INFO  HybridBot add_order_response: OK (req=0000000036)
+2025-06-15 01:49:59 INFO  HybridBot add_order_response: OK (req=0000000037)
+2025-06-15 01:49:59 INFO  HybridBot quoted $CARD_call_99659_300@32220/33225
+2025-06-15 01:49:59 INFO  HybridBot cancel_order_response: FAIL (req=0000000038)
+2025-06-15 01:49:59 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:00 INFO  HybridBot future_mid moved by 72 → 100642
+2025-06-15 01:50:01 INFO  HybridBot future_mid moved by 72 → 100570
+2025-06-15 01:50:02 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 299811
+2025-06-15 01:50:02 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 299912
+2025-06-15 01:50:02 INFO  HybridBot cancel_order_response: FAIL (req=0000000042)
+2025-06-15 01:50:02 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:07 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:08 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:08 INFO  HybridBot add_order_response: OK (req=0000000046)
+2025-06-15 01:50:08 INFO  HybridBot delta hedge sell 2@100570
+2025-06-15 01:50:08 INFO  HybridBot T_remain=305.7s
+2025-06-15 01:50:08 INFO  HybridBot Strikes: ['$CARD_call_100546_360', '$CARD_call_100676_300', '$CARD_call_100388_330', '$CARD_call_100908_285', '$CARD_call_100908_345', '$CARD_put_100546_360', '$CARD_put_100676_300', '$CARD_put_100388_330', '$CARD_put_100908_285', '$CARD_put_100908_345']
+2025-06-15 01:50:08 INFO  HybridBot σ 0.0012→0.0008
+2025-06-15 01:50:09 INFO  HybridBot add_order_response: OK (req=0000000047)
+2025-06-15 01:50:09 INFO  HybridBot future_mid moved by 328 → 100242
+2025-06-15 01:50:09 INFO  HybridBot add_order_response: OK (req=0000000048)
+2025-06-15 01:50:09 INFO  HybridBot quoted $CARD_call_100546_360@1445/2450
+2025-06-15 01:50:09 INFO  HybridBot cancel_order_response: FAIL (req=0000000049)
+2025-06-15 01:50:09 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:12 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:12 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:12 INFO  HybridBot future_mid moved by 836 → 101078
+2025-06-15 01:50:12 INFO  HybridBot cancel_order_response: OK (req=0000000053)
+2025-06-15 01:50:12 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:13 INFO  HybridBot future_mid moved by 487 → 100591
+2025-06-15 01:50:14 INFO  HybridBot future_mid moved by 470 → 100121
+2025-06-15 01:50:15 INFO  HybridBot add_order_response: OK (req=0000000055)
+2025-06-15 01:50:15 INFO  HybridBot add_order_response: FAIL (req=0000000056)
+2025-06-15 01:50:15 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313114
+2025-06-15 01:50:15 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313216
+2025-06-15 01:50:15 INFO  HybridBot add_order_response: OK (req=0000000059)
+2025-06-15 01:50:15 INFO  HybridBot add_order_response: FAIL (req=0000000060)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000061)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: FAIL (req=0000000062)
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 313485
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 313490
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000065)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: FAIL (req=0000000066)
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313579
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313586
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000069)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: FAIL (req=0000000070)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000071)
+2025-06-15 01:50:16 INFO  HybridBot delta hedge buy 4@100121
+2025-06-15 01:50:16 INFO  HybridBot arb mis=1046:sell$CARD_call_100908_285/$CARD_put_100908_285
+2025-06-15 01:50:16 INFO  HybridBot future_mid moved by 17 → 100138
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313725
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 313810
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000074)
+2025-06-15 01:50:16 INFO  HybridBot T_remain=298.2s
+2025-06-15 01:50:16 INFO  HybridBot Strikes: ['$CARD_call_100157_315', '$CARD_call_100388_330', '$CARD_call_99899_285', '$CARD_call_99899_345', '$CARD_call_100546_360', '$CARD_put_100157_315', '$CARD_put_100388_330', '$CARD_put_99899_285', '$CARD_put_99899_345', '$CARD_put_100546_360']
+2025-06-15 01:50:16 INFO  HybridBot σ 0.0008→0.0012
+2025-06-15 01:50:16 INFO  HybridBot cancel_order_response: FAIL (req=0000000075)
+2025-06-15 01:50:16 INFO  HybridBot future_mid moved by 930 → 101076
+2025-06-15 01:50:16 INFO  HybridBot cancel_order_response: FAIL (req=0000000076)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: OK (req=0000000077)
+2025-06-15 01:50:16 INFO  HybridBot add_order_response: FAIL (req=0000000078)
+2025-06-15 01:50:16 INFO  HybridBot cancel_order_response: OK (req=0000000079)
+2025-06-15 01:50:16 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:20 INFO  HybridBot future_mid moved by 458 → 100618
+2025-06-15 01:50:21 INFO  HybridBot add_order_response: OK (req=0000000081)
+2025-06-15 01:50:21 INFO  HybridBot future_mid moved by 458 → 101076
+2025-06-15 01:50:21 INFO  HybridBot future_mid moved by 458 → 100618
+2025-06-15 01:50:22 INFO  HybridBot add_order_response: OK (req=0000000082)
+2025-06-15 01:50:22 INFO  HybridBot quoted $CARD_call_100388_330@27339/28349
+2025-06-15 01:50:22 INFO  HybridBot future_mid moved by 39 → 100657
+2025-06-15 01:50:22 INFO  HybridBot future_mid moved by 107 → 100764
+2025-06-15 01:50:22 INFO  HybridBot add_order_response: OK (req=0000000083)
+2025-06-15 01:50:22 INFO  HybridBot add_order_response: OK (req=0000000084)
+2025-06-15 01:50:22 INFO  HybridBot quoted $CARD_call_99899_345@28500/29506
+2025-06-15 01:50:22 INFO  HybridBot future_mid moved by 169 → 100595
+2025-06-15 01:50:22 INFO  HybridBot cancel_order_response: FAIL (req=0000000085)
+2025-06-15 01:50:22 INFO  HybridBot cancel_order_response: OK (req=0000000086)
+2025-06-15 01:50:22 INFO  HybridBot add_order_response: OK (req=0000000087)
+2025-06-15 01:50:22 INFO  HybridBot add_order_response: OK (req=0000000088)
+2025-06-15 01:50:22 INFO  HybridBot quoted $CARD_call_100546_360@9027/10034
+2025-06-15 01:50:22 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:23 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:23 INFO  HybridBot cancel_order_response: OK (req=0000000091)
+2025-06-15 01:50:23 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:24 INFO  HybridBot future_mid moved by 72 → 100523
+2025-06-15 01:50:26 INFO  HybridBot future_mid moved by 87 → 100436
+2025-06-15 01:50:26 INFO  HybridBot add_order_response: OK (req=0000000093)
+2025-06-15 01:50:26 INFO  HybridBot add_order_response: FAIL (req=0000000094)
+2025-06-15 01:50:26 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:26 INFO  HybridBot future_mid moved by 120 → 100316
+2025-06-15 01:50:27 INFO  HybridBot future_mid moved by 630 → 100946
+2025-06-15 01:50:28 INFO  HybridBot future_mid moved by 109 → 101055
+2025-06-15 01:50:29 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:29 INFO  HybridBot future_mid moved by 45 → 101100
+2025-06-15 01:50:31 INFO  HybridBot future_mid moved by 45 → 101055
+2025-06-15 01:50:32 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 329718
+2025-06-15 01:50:32 ERROR HybridBot exchange error: Expiry must be in the future request: 295000 server: 329776
+2025-06-15 01:50:32 INFO  HybridBot add_order_response: OK (req=0000000099)
+2025-06-15 01:50:32 INFO  HybridBot add_order_response: FAIL (req=0000000100)
+2025-06-15 01:50:32 INFO  HybridBot future_mid moved by 376 → 101431
+2025-06-15 01:50:32 INFO  HybridBot cancel_order_response: OK (req=0000000101)
+2025-06-15 01:50:34 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:37 INFO  HybridBot add_order_response: OK (req=0000000103)
+2025-06-15 01:50:37 INFO  HybridBot add_order_response: FAIL (req=0000000104)
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 INFO  HybridBot arb mis=-1419:buy$CARD_call_100157_315/$CARD_put_100157_315
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 335511
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 335580
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 INFO  HybridBot arb mis=13908:sell$CARD_call_100388_330/$CARD_put_100388_330
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 INFO  HybridBot arb mis=-1340:buy$CARD_call_100546_360/$CARD_put_100546_360
+2025-06-15 01:50:38 INFO  HybridBot add_order_response: OK (req=0000000112)
+2025-06-15 01:50:38 INFO  HybridBot add_order_response: FAIL (req=0000000113)
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 INFO  HybridBot T_remain=275.9s
+2025-06-15 01:50:38 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101561_360', '$CARD_call_101197_390', '$CARD_call_101692_300', '$CARD_call_101169_315', '$CARD_put_101392_330', '$CARD_put_101561_360', '$CARD_put_101197_390', '$CARD_put_101692_300', '$CARD_put_101169_315']
+2025-06-15 01:50:38 INFO  HybridBot σ 0.0012→0.0002
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:38 INFO  HybridBot add_order_response: OK (req=0000000117)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: FAIL (req=0000000118)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: OK (req=0000000119)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: OK (req=0000000120)
+2025-06-15 01:50:39 INFO  HybridBot quoted $CARD_call_101197_390@45682/46696
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 336582
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 336611
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 336730
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 336829
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: OK (req=0000000127)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: FAIL (req=0000000128)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: OK (req=0000000129)
+2025-06-15 01:50:39 INFO  HybridBot add_order_response: FAIL (req=0000000130)
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 337241
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 337276
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 337317
+2025-06-15 01:50:39 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 337373
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:40 INFO  HybridBot arb mis=-1442:buy$CARD_call_101561_360/$CARD_put_101561_360
+2025-06-15 01:50:40 INFO  HybridBot add_order_response: OK (req=0000000136)
+2025-06-15 01:50:40 INFO  HybridBot add_order_response: FAIL (req=0000000137)
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:40 INFO  HybridBot arb mis=-1322:buy$CARD_call_101197_390/$CARD_put_101197_390
+2025-06-15 01:50:40 INFO  HybridBot add_order_response: OK (req=0000000139)
+2025-06-15 01:50:40 INFO  HybridBot add_order_response: FAIL (req=0000000140)
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:40 INFO  HybridBot arb mis=-1323:buy$CARD_call_101169_315/$CARD_put_101169_315
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 337713
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 337779
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:50:40 INFO  HybridBot T_remain=274.2s
+2025-06-15 01:50:40 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101561_360', '$CARD_call_101197_390', '$CARD_call_101692_300', '$CARD_call_101169_315', '$CARD_put_101392_330', '$CARD_put_101561_360', '$CARD_put_101197_390', '$CARD_put_101692_300', '$CARD_put_101169_315']
+2025-06-15 01:50:40 INFO  HybridBot σ 0.0002→0.0002
+2025-06-15 01:50:40 INFO  HybridBot cancel_order_response: OK (req=0000000145)
+2025-06-15 01:50:40 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:43 INFO  HybridBot add_order_response: OK (req=0000000147)
+2025-06-15 01:50:43 INFO  HybridBot add_order_response: FAIL (req=0000000148)
+2025-06-15 01:50:43 INFO  HybridBot cancel_order_response: FAIL (req=0000000149)
+2025-06-15 01:50:43 INFO  HybridBot cancel_order_response: OK (req=0000000150)
+2025-06-15 01:50:43 INFO  HybridBot add_order_response: OK (req=0000000151)
+2025-06-15 01:50:44 INFO  HybridBot add_order_response: OK (req=0000000152)
+2025-06-15 01:50:44 INFO  HybridBot quoted $CARD_call_101197_390@45944/46958
+2025-06-15 01:50:44 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:47 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:50 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 347515
+2025-06-15 01:50:50 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 348068
+2025-06-15 01:50:51 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:54 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:50:57 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 354414
+2025-06-15 01:50:57 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 354477
+2025-06-15 01:50:57 INFO  HybridBot cancel_order_response: OK (req=0000000161)
+2025-06-15 01:50:57 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:00 INFO  HybridBot add_order_response: OK (req=0000000163)
+2025-06-15 01:51:00 INFO  HybridBot add_order_response: FAIL (req=0000000164)
+2025-06-15 01:51:00 INFO  HybridBot cancel_order_response: OK (req=0000000165)
+2025-06-15 01:51:00 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:05 INFO  HybridBot add_order_response: OK (req=0000000167)
+2025-06-15 01:51:06 INFO  HybridBot add_order_response: FAIL (req=0000000168)
+2025-06-15 01:51:06 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:09 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:12 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 369711
+2025-06-15 01:51:12 ERROR HybridBot exchange error: Expiry must be in the future request: 310000 server: 369784
+2025-06-15 01:51:12 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:15 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:20 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 376140
+2025-06-15 01:51:21 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 378150
+2025-06-15 01:51:21 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 379045
+2025-06-15 01:51:21 INFO  HybridBot arb mis=-1108:buy$CARD_call_101561_360/$CARD_put_101561_360
+2025-06-15 01:51:22 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 379390
+2025-06-15 01:51:22 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 379516
+2025-06-15 01:51:22 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 379733
+2025-06-15 01:51:22 INFO  HybridBot arb mis=-1215:buy$CARD_call_101197_390/$CARD_put_101197_390
+2025-06-15 01:51:22 INFO  HybridBot add_order_response: OK (req=0000000181)
+2025-06-15 01:51:22 INFO  HybridBot add_order_response: FAIL (req=0000000182)
+2025-06-15 01:51:22 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 380014
+2025-06-15 01:51:22 INFO  HybridBot arb mis=-1323:buy$CARD_call_101169_315/$CARD_put_101169_315
+2025-06-15 01:51:22 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 380136
+2025-06-15 01:51:23 ERROR HybridBot exchange error: Expiry must be in the future request: 325000 server: 380322
+2025-06-15 01:51:23 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 380474
+2025-06-15 01:51:23 INFO  HybridBot T_remain=231.6s
+2025-06-15 01:51:23 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101523_420', '$CARD_call_101561_360', '$CARD_call_101654_435', '$CARD_call_101197_390', '$CARD_put_101392_330', '$CARD_put_101523_420', '$CARD_put_101561_360', '$CARD_put_101654_435', '$CARD_put_101197_390']
+2025-06-15 01:51:23 INFO  HybridBot σ 0.0002→0.0004
+2025-06-15 01:51:23 INFO  HybridBot add_order_response: OK (req=0000000187)
+2025-06-15 01:51:23 INFO  HybridBot add_order_response: FAIL (req=0000000188)
+2025-06-15 01:51:23 INFO  HybridBot cancel_order_response: FAIL (req=0000000189)
+2025-06-15 01:51:23 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:26 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 383665
+2025-06-15 01:51:26 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 383682
+2025-06-15 01:51:26 INFO  HybridBot add_order_response: OK (req=0000000193)
+2025-06-15 01:51:26 INFO  HybridBot add_order_response: FAIL (req=0000000194)
+2025-06-15 01:51:26 INFO  HybridBot cancel_order_response: FAIL (req=0000000195)
+2025-06-15 01:51:26 INFO  HybridBot cancel_order_response: FAIL (req=0000000196)
+2025-06-15 01:51:26 INFO  HybridBot add_order_response: OK (req=0000000197)
+2025-06-15 01:51:26 INFO  HybridBot add_order_response: OK (req=0000000198)
+2025-06-15 01:51:26 INFO  HybridBot quoted $CARD_call_101197_390@29064/30078
+2025-06-15 01:51:26 INFO  HybridBot add_order_response: OK (req=0000000199)
+2025-06-15 01:51:27 INFO  HybridBot add_order_response: FAIL (req=0000000200)
+2025-06-15 01:51:27 INFO  HybridBot cancel_order_response: FAIL (req=0000000201)
+2025-06-15 01:51:27 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:30 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 387589
+2025-06-15 01:51:30 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 387608
+2025-06-15 01:51:30 INFO  HybridBot add_order_response: OK (req=0000000205)
+2025-06-15 01:51:30 INFO  HybridBot add_order_response: FAIL (req=0000000206)
+2025-06-15 01:51:30 INFO  HybridBot cancel_order_response: OK (req=0000000207)
+2025-06-15 01:51:30 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:35 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:51:36 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:51:37 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 393890
+2025-06-15 01:51:37 INFO  HybridBot arb mis=-1445:buy$CARD_call_101523_420/$CARD_put_101523_420
+2025-06-15 01:51:38 INFO  HybridBot add_order_response: OK (req=0000000212)
+2025-06-15 01:51:38 INFO  HybridBot add_order_response: FAIL (req=0000000213)
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 395916
+2025-06-15 01:51:38 INFO  HybridBot arb mis=-1108:buy$CARD_call_101561_360/$CARD_put_101561_360
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 395967
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 395981
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 395992
+2025-06-15 01:51:38 INFO  HybridBot arb mis=-1442:buy$CARD_call_101654_435/$CARD_put_101654_435
+2025-06-15 01:51:38 INFO  HybridBot add_order_response: OK (req=0000000218)
+2025-06-15 01:51:38 INFO  HybridBot add_order_response: FAIL (req=0000000219)
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 396118
+2025-06-15 01:51:38 INFO  HybridBot T_remain=215.9s
+2025-06-15 01:51:38 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101523_420', '$CARD_call_101561_360', '$CARD_call_101654_435', '$CARD_call_101197_390', '$CARD_put_101392_330', '$CARD_put_101523_420', '$CARD_put_101561_360', '$CARD_put_101654_435', '$CARD_put_101197_390']
+2025-06-15 01:51:38 INFO  HybridBot σ 0.0004→0.0004
+2025-06-15 01:51:38 INFO  HybridBot cancel_order_response: OK (req=0000000221)
+2025-06-15 01:51:38 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:41 INFO  HybridBot add_order_response: OK (req=0000000223)
+2025-06-15 01:51:42 INFO  HybridBot add_order_response: OK (req=0000000224)
+2025-06-15 01:51:42 INFO  HybridBot quoted $CARD_call_101523_420@1/2
+2025-06-15 01:51:42 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:45 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:50 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 405478
+2025-06-15 01:51:50 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 407576
+2025-06-15 01:51:50 INFO  HybridBot cancel_order_response: OK (req=0000000229)
+2025-06-15 01:51:50 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:53 INFO  HybridBot add_order_response: OK (req=0000000231)
+2025-06-15 01:51:54 INFO  HybridBot add_order_response: OK (req=0000000232)
+2025-06-15 01:51:54 INFO  HybridBot quoted $CARD_call_101654_435@1/2
+2025-06-15 01:51:54 INFO  HybridBot cancel_order_response: FAIL (req=0000000233)
+2025-06-15 01:51:54 INFO  HybridBot cancel_order_response: FAIL (req=0000000234)
+2025-06-15 01:51:54 ERROR HybridBot exchange error: Expiry must be in the future request: 400000 server: 411576
+2025-06-15 01:51:54 ERROR HybridBot exchange error: Expiry must be in the future request: 400000 server: 411590
+2025-06-15 01:51:54 INFO  HybridBot cancel_order_response: OK (req=0000000237)
+2025-06-15 01:51:54 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:51:57 INFO  HybridBot add_order_response: OK (req=0000000239)
+2025-06-15 01:51:57 INFO  HybridBot add_order_response: FAIL (req=0000000240)
+2025-06-15 01:51:57 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:01 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:08 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 421016
+2025-06-15 01:52:11 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 424020
+2025-06-15 01:52:12 INFO  HybridBot cancel_order_response: OK (req=0000000245)
+2025-06-15 01:52:14 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:17 INFO  HybridBot add_order_response: OK (req=0000000247)
+2025-06-15 01:52:22 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:52:23 INFO  HybridBot arb mis=-1442:buy$CARD_call_101523_420/$CARD_put_101523_420
+2025-06-15 01:52:24 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 438225
+2025-06-15 01:52:27 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 441218
+2025-06-15 01:52:29 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 444225
+2025-06-15 01:52:31 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 447231
+2025-06-15 01:52:31 INFO  HybridBot arb mis=-1108:buy$CARD_call_101561_360/$CARD_put_101561_360
+2025-06-15 01:52:32 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 449266
+2025-06-15 01:52:35 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 450529
+2025-06-15 01:52:36 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 452680
+2025-06-15 01:52:36 INFO  HybridBot arb mis=-1149:buy$CARD_call_101654_435/$CARD_put_101654_435
+2025-06-15 01:52:37 ERROR HybridBot exchange error: Expiry must be in the future request: 445000 server: 453827
+2025-06-15 01:52:38 ERROR HybridBot exchange error: Expiry must be in the future request: 445000 server: 455025
+2025-06-15 01:52:38 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 455754
+2025-06-15 01:52:38 INFO  HybridBot T_remain=156.0s
+2025-06-15 01:52:38 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101523_420', '$CARD_call_101523_495', '$CARD_call_101561_360', '$CARD_call_101261_510', '$CARD_put_101392_330', '$CARD_put_101523_420', '$CARD_put_101523_495', '$CARD_put_101561_360', '$CARD_put_101261_510']
+2025-06-15 01:52:38 INFO  HybridBot σ 0.0004→0.0003
+2025-06-15 01:52:39 INFO  HybridBot cancel_order_response: FAIL (req=0000000259)
+2025-06-15 01:52:39 INFO  HybridBot cancel_order_response: FAIL (req=0000000260)
+2025-06-15 01:52:39 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 456715
+2025-06-15 01:52:39 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 456832
+2025-06-15 01:52:39 INFO  HybridBot add_order_response: OK (req=0000000263)
+2025-06-15 01:52:39 INFO  HybridBot add_order_response: FAIL (req=0000000264)
+2025-06-15 01:52:39 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:42 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:45 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 463192
+2025-06-15 01:52:45 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 463257
+2025-06-15 01:52:46 INFO  HybridBot add_order_response: OK (req=0000000269)
+2025-06-15 01:52:46 INFO  HybridBot add_order_response: OK (req=0000000270)
+2025-06-15 01:52:46 INFO  HybridBot quoted $CARD_call_101261_510@33420/34434
+2025-06-15 01:52:46 INFO  HybridBot cancel_order_response: FAIL (req=0000000271)
+2025-06-15 01:52:46 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:51 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 467255
+2025-06-15 01:52:55 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 469018
+2025-06-15 01:52:56 INFO  HybridBot add_order_response: OK (req=0000000275)
+2025-06-15 01:52:56 INFO  HybridBot add_order_response: FAIL (req=0000000276)
+2025-06-15 01:52:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:52:59 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:02 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 480054
+2025-06-15 01:53:10 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 480277
+2025-06-15 01:53:12 INFO  HybridBot add_order_response: OK (req=0000000281)
+2025-06-15 01:53:14 INFO  HybridBot add_order_response: FAIL (req=0000000282)
+2025-06-15 01:53:14 INFO  HybridBot arb mis=-1442:buy$CARD_call_101523_420/$CARD_put_101523_420
+2025-06-15 01:53:15 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 489313
+2025-06-15 01:53:15 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 492256
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 493465
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 493817
+2025-06-15 01:53:16 INFO  HybridBot arb mis=-1108:buy$CARD_call_101561_360/$CARD_put_101561_360
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 493919
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 494058
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Expiry must be in the future request: 340000 server: 494092
+2025-06-15 01:53:16 INFO  HybridBot T_remain=118.0s
+2025-06-15 01:53:16 INFO  HybridBot Strikes: ['$CARD_call_101392_330', '$CARD_call_101523_420', '$CARD_call_101523_495', '$CARD_call_101561_360', '$CARD_call_101261_510', '$CARD_put_101392_330', '$CARD_put_101523_420', '$CARD_put_101523_495', '$CARD_put_101561_360', '$CARD_put_101261_510']
+2025-06-15 01:53:16 INFO  HybridBot σ 0.0003→0.0004
+2025-06-15 01:53:16 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:19 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:22 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 500158
+2025-06-15 01:53:23 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 500445
+2025-06-15 01:53:23 INFO  HybridBot cancel_order_response: FAIL (req=0000000294)
+2025-06-15 01:53:23 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:26 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:53:26 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 01:53:26 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:30 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:35 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 510300
+2025-06-15 01:53:39 ERROR HybridBot exchange error: Expiry must be in the future request: 370000 server: 513270
+2025-06-15 01:53:42 INFO  HybridBot cancel_order_response: FAIL (req=0000000302)
+2025-06-15 01:53:48 INFO  HybridBot cancel_order_response: FAIL (req=0000000303)
+2025-06-15 01:53:52 ERROR HybridBot exchange error: Expiry must be in the future request: 520000 server: 522289
+2025-06-15 01:53:55 ERROR HybridBot exchange error: Expiry must be in the future request: 520000 server: 525306
+2025-06-15 01:53:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:57 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:53:59 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 534287
+2025-06-15 01:53:59 ERROR HybridBot exchange error: Expiry must be in the future request: 430000 server: 536481
+2025-06-15 01:54:00 INFO  HybridBot cancel_order_response: FAIL (req=0000000310)
+2025-06-15 01:54:00 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 01:54:08 ERROR HybridBot exchange error: Expiry must be in the future request: 505000 server: 540643
+2025-06-15 01:54:11 ERROR HybridBot exchange error: Expiry must be in the future request: 505000 server: 543647
+2025-06-15 01:54:14 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:01 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:46:01 INFO  HybridBot Connected: Connected to OrderBook API
+2025-06-15 02:46:01 INFO  HybridBot Selected future: $CARD_future_1515, expires in 1515s
+2025-06-15 02:46:15 INFO  HybridBot future_mid → 100787
+2025-06-15 02:46:15 INFO  HybridBot Warm-up complete: 44 option series
+2025-06-15 02:46:15 INFO  HybridBot T_remain=1501.3s
+2025-06-15 02:46:15 INFO  HybridBot Strikes: ['$CARD_call_100936_1485', '$CARD_call_101000_1515', '$CARD_call_100480_1500', '$CARD_call_101197_1470', '$CARD_call_100175_1470', '$CARD_put_100936_1485', '$CARD_put_101000_1515', '$CARD_put_100480_1500', '$CARD_put_101197_1470', '$CARD_put_100175_1470']
+2025-06-15 02:46:15 INFO  HybridBot σ 0.2000→0.0002
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: OK (req=0000000000)
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: FAIL (req=0000000001)
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: OK (req=0000000002)
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: FAIL (req=0000000003)
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: OK (req=0000000004)
+2025-06-15 02:46:15 INFO  HybridBot add_order_response: OK (req=0000000005)
+2025-06-15 02:46:15 INFO  HybridBot quoted $CARD_call_100480_1500@39358/40365
+2025-06-15 02:46:16 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:16 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:16 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:16 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:16 INFO  HybridBot add_order_response: OK (req=0000000010)
+2025-06-15 02:46:16 INFO  HybridBot add_order_response: FAIL (req=0000000011)
+2025-06-15 02:46:16 INFO  HybridBot add_order_response: OK (req=0000000012)
+2025-06-15 02:46:17 INFO  HybridBot add_order_response: FAIL (req=0000000013)
+2025-06-15 02:46:17 INFO  HybridBot add_order_response: OK (req=0000000014)
+2025-06-15 02:46:17 INFO  HybridBot add_order_response: FAIL (req=0000000015)
+2025-06-15 02:46:17 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:17 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:17 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:17 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: FAIL (req=0000000020)
+2025-06-15 02:46:18 INFO  HybridBot arb mis=-1183: buy $CARD_call_100936_1485/$CARD_put_100936_1485
+2025-06-15 02:46:18 INFO  HybridBot future_mid moved by 196 → 100983
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: OK (req=0000000021)
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: FAIL (req=0000000022)
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: OK (req=0000000023)
+2025-06-15 02:46:18 INFO  HybridBot arb mis=-1331: buy $CARD_call_100480_1500/$CARD_put_100480_1500
+2025-06-15 02:46:18 INFO  HybridBot future_mid moved by 15 → 100998
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: OK (req=0000000024)
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: FAIL (req=0000000025)
+2025-06-15 02:46:18 INFO  HybridBot add_order_response: OK (req=0000000026)
+2025-06-15 02:46:18 INFO  HybridBot arb mis=-3188: buy $CARD_call_101197_1470/$CARD_put_101197_1470
+2025-06-15 02:46:18 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:18 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:19 INFO  HybridBot add_order_response: OK (req=0000000029)
+2025-06-15 02:46:19 INFO  HybridBot arb mis=-1510: buy $CARD_call_100175_1470/$CARD_put_100175_1470
+2025-06-15 02:46:19 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:19 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:19 INFO  HybridBot add_order_response: OK (req=0000000032)
+2025-06-15 02:46:19 INFO  HybridBot T_remain=1497.0s
+2025-06-15 02:46:19 INFO  HybridBot Strikes: ['$CARD_call_101000_1515', '$CARD_call_100936_1485', '$CARD_call_101197_1470', '$CARD_call_101475_1500', '$CARD_call_100480_1500', '$CARD_put_101000_1515', '$CARD_put_100936_1485', '$CARD_put_101197_1470', '$CARD_put_101475_1500', '$CARD_put_100480_1500']
+2025-06-15 02:46:19 INFO  HybridBot σ 0.0002→0.0001
+2025-06-15 02:46:19 INFO  HybridBot cancel_order_response: OK (req=0000000033)
+2025-06-15 02:46:19 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:21 INFO  HybridBot future_mid moved by 574 → 101585
+2025-06-15 02:46:22 INFO  HybridBot add_order_response: OK (req=0000000035)
+2025-06-15 02:46:22 INFO  HybridBot add_order_response: OK (req=0000000036)
+2025-06-15 02:46:22 INFO  HybridBot quoted $CARD_call_101000_1515@1842/2852
+2025-06-15 02:46:22 INFO  HybridBot cancel_order_response: OK (req=0000000037)
+2025-06-15 02:46:22 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:25 INFO  HybridBot add_order_response: OK (req=0000000039)
+2025-06-15 02:46:26 INFO  HybridBot add_order_response: OK (req=0000000040)
+2025-06-15 02:46:26 INFO  HybridBot quoted $CARD_call_100936_1485@96205/97215
+2025-06-15 02:46:26 INFO  HybridBot future_mid moved by 426 → 101159
+2025-06-15 02:46:26 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:29 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:32 INFO  HybridBot future_mid moved by 372 → 100772
+2025-06-15 02:46:32 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1488716
+2025-06-15 02:46:32 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1488843
+2025-06-15 02:46:32 INFO  HybridBot add_order_response: OK (req=0000000045)
+2025-06-15 02:46:32 INFO  HybridBot future_mid moved by 95 → 100677
+2025-06-15 02:46:32 INFO  HybridBot add_order_response: FAIL (req=0000000046)
+2025-06-15 02:46:32 INFO  HybridBot cancel_order_response: FAIL (req=0000000047)
+2025-06-15 02:46:33 INFO  HybridBot cancel_order_response: OK (req=0000000048)
+2025-06-15 02:46:33 INFO  HybridBot add_order_response: OK (req=0000000049)
+2025-06-15 02:46:33 INFO  HybridBot add_order_response: OK (req=0000000050)
+2025-06-15 02:46:33 INFO  HybridBot quoted $CARD_call_100480_1500@45341/46351
+2025-06-15 02:46:33 INFO  HybridBot cancel_order_response: OK (req=0000000051)
+2025-06-15 02:46:33 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:34 INFO  HybridBot future_mid moved by 102 → 100575
+2025-06-15 02:46:35 INFO  HybridBot future_mid moved by 462 → 100113
+2025-06-15 02:46:36 INFO  HybridBot future_mid moved by 358 → 100471
+2025-06-15 02:46:36 INFO  HybridBot future_mid moved by 457 → 100928
+2025-06-15 02:46:36 INFO  HybridBot add_order_response: OK (req=0000000053)
+2025-06-15 02:46:36 INFO  HybridBot add_order_response: FAIL (req=0000000054)
+2025-06-15 02:46:36 INFO  HybridBot cancel_order_response: FAIL (req=0000000055)
+2025-06-15 02:46:36 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:38 INFO  HybridBot future_mid moved by 540 → 100388
+2025-06-15 02:46:39 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1496427
+2025-06-15 02:46:40 INFO  HybridBot future_mid moved by 214 → 100601
+2025-06-15 02:46:40 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1496573
+2025-06-15 02:46:40 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:40 INFO  HybridBot future_mid moved by 24 → 100577
+2025-06-15 02:46:41 INFO  HybridBot future_mid moved by 214 → 100363
+2025-06-15 02:46:43 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:46 INFO  HybridBot future_mid moved by 24 → 100387
+2025-06-15 02:46:46 INFO  HybridBot future_mid moved by 69 → 100318
+2025-06-15 02:46:47 INFO  HybridBot future_mid moved by 42 → 100360
+2025-06-15 02:46:48 INFO  HybridBot future_mid moved by 323 → 100683
+2025-06-15 02:46:48 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1502703
+2025-06-15 02:46:50 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1504926
+2025-06-15 02:46:50 INFO  HybridBot future_mid moved by 240 → 100443
+2025-06-15 02:46:52 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:53 INFO  HybridBot future_mid moved by 237 → 100206
+2025-06-15 02:46:53 INFO  HybridBot future_mid moved by 125 → 100081
+2025-06-15 02:46:53 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:46:55 INFO  HybridBot cancel_order_response: FAIL (req=0000000065)
+2025-06-15 02:46:55 INFO  HybridBot future_mid moved by 181 → 100262
+2025-06-15 02:46:56 INFO  HybridBot future_mid moved by 181 → 100081
+2025-06-15 02:46:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:46:56 INFO  HybridBot future_mid moved by 957 → 99124
+2025-06-15 02:46:57 INFO  HybridBot future_mid moved by 564 → 99688
+2025-06-15 02:46:58 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1514988
+2025-06-15 02:47:00 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1515225
+2025-06-15 02:47:01 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:01 INFO  HybridBot arb mis=1979: sell $CARD_call_101000_1515/$CARD_put_101000_1515
+2025-06-15 02:47:01 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:02 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:02 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:02 INFO  HybridBot arb mis=-1878: buy $CARD_call_101197_1470/$CARD_put_101197_1470
+2025-06-15 02:47:02 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1518779
+2025-06-15 02:47:02 ERROR HybridBot exchange error: Expiry must be in the future request: 1480000 server: 1518890
+2025-06-15 02:47:02 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:02 INFO  HybridBot T_remain=1453.8s
+2025-06-15 02:47:02 INFO  HybridBot Strikes: ['$CARD_call_99833_1545', '$CARD_call_99871_1560', '$CARD_call_99485_1500', '$CARD_call_99916_1485', '$CARD_call_99400_1530', '$CARD_put_99833_1545', '$CARD_put_99871_1560', '$CARD_put_99485_1500', '$CARD_put_99916_1485', '$CARD_put_99400_1530']
+2025-06-15 02:47:02 INFO  HybridBot σ 0.0001→0.0003
+2025-06-15 02:47:02 INFO  HybridBot add_order_response: OK (req=0000000076)
+2025-06-15 02:47:02 INFO  HybridBot add_order_response: FAIL (req=0000000077)
+2025-06-15 02:47:02 INFO  HybridBot add_order_response: OK (req=0000000078)
+2025-06-15 02:47:02 INFO  HybridBot add_order_response: FAIL (req=0000000079)
+2025-06-15 02:47:03 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1519597
+2025-06-15 02:47:03 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1519705
+2025-06-15 02:47:03 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1519845
+2025-06-15 02:47:03 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1519969
+2025-06-15 02:47:03 INFO  HybridBot add_order_response: OK (req=0000000084)
+2025-06-15 02:47:03 INFO  HybridBot add_order_response: OK (req=0000000085)
+2025-06-15 02:47:03 INFO  HybridBot quoted $CARD_call_99400_1530@17655/18651
+2025-06-15 02:47:03 INFO  HybridBot add_order_response: OK (req=0000000086)
+2025-06-15 02:47:03 INFO  HybridBot add_order_response: FAIL (req=0000000087)
+2025-06-15 02:47:04 INFO  HybridBot add_order_response: OK (req=0000000088)
+2025-06-15 02:47:04 INFO  HybridBot add_order_response: FAIL (req=0000000089)
+2025-06-15 02:47:04 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1520820
+2025-06-15 02:47:04 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1520941
+2025-06-15 02:47:04 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1521052
+2025-06-15 02:47:04 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1521183
+2025-06-15 02:47:04 INFO  HybridBot add_order_response: OK (req=0000000094)
+2025-06-15 02:47:04 INFO  HybridBot add_order_response: FAIL (req=0000000095)
+2025-06-15 02:47:05 ERROR HybridBot exchange error: Instrument is closed
+2025-06-15 02:47:05 INFO  HybridBot T_remain=1451.3s
+2025-06-15 02:47:05 INFO  HybridBot Strikes: ['$CARD_call_99833_1545', '$CARD_call_99871_1560', '$CARD_call_99485_1500', '$CARD_call_99916_1485', '$CARD_call_99400_1530', '$CARD_put_99833_1545', '$CARD_put_99871_1560', '$CARD_put_99485_1500', '$CARD_put_99916_1485', '$CARD_put_99400_1530']
+2025-06-15 02:47:05 INFO  HybridBot σ 0.0003→0.0003
+2025-06-15 02:47:05 INFO  HybridBot cancel_order_response: OK (req=0000000097)
+2025-06-15 02:47:05 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:08 INFO  HybridBot add_order_response: OK (req=0000000099)
+2025-06-15 02:47:08 INFO  HybridBot add_order_response: FAIL (req=0000000100)
+2025-06-15 02:47:08 INFO  HybridBot cancel_order_response: OK (req=0000000101)
+2025-06-15 02:47:08 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:11 INFO  HybridBot add_order_response: OK (req=0000000103)
+2025-06-15 02:47:11 INFO  HybridBot add_order_response: FAIL (req=0000000104)
+2025-06-15 02:47:11 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:15 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:17 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1534327
+2025-06-15 02:47:17 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1534443
+2025-06-15 02:47:18 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:21 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:24 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1540577
+2025-06-15 02:47:24 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1540791
+2025-06-15 02:47:24 INFO  HybridBot cancel_order_response: FAIL (req=0000000113)
+2025-06-15 02:47:24 INFO  HybridBot cancel_order_response: FAIL (req=0000000114)
+2025-06-15 02:47:24 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1541121
+2025-06-15 02:47:24 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1541248
+2025-06-15 02:47:24 INFO  HybridBot cancel_order_response: OK (req=0000000117)
+2025-06-15 02:47:25 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:28 INFO  HybridBot add_order_response: OK (req=0000000119)
+2025-06-15 02:47:28 INFO  HybridBot add_order_response: FAIL (req=0000000120)
+2025-06-15 02:47:28 INFO  HybridBot cancel_order_response: OK (req=0000000121)
+2025-06-15 02:47:28 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:31 INFO  HybridBot add_order_response: OK (req=0000000123)
+2025-06-15 02:47:31 INFO  HybridBot add_order_response: FAIL (req=0000000124)
+2025-06-15 02:47:31 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:34 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:38 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1554172
+2025-06-15 02:47:39 ERROR HybridBot exchange error: Expiry must be in the future request: 1510000 server: 1555027
+2025-06-15 02:47:39 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:42 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:48 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1561809
+2025-06-15 02:47:50 ERROR HybridBot exchange error: Expiry must be in the future request: 1495000 server: 1564615
+2025-06-15 02:47:51 INFO  HybridBot cancel_order_response: FAIL (req=0000000133)
+2025-06-15 02:47:52 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1571099
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1571617
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1525000 server: 1571942
+2025-06-15 02:47:55 INFO  HybridBot arb mis=1069: sell $CARD_call_99833_1545/$CARD_put_99833_1545
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1555000 server: 1572152
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1555000 server: 1572338
+2025-06-15 02:47:55 ERROR HybridBot exchange error: Expiry must be in the future request: 1525000 server: 1572488
+2025-06-15 02:47:55 INFO  HybridBot arb mis=1041: sell $CARD_call_99400_1530/$CARD_put_99400_1530
+2025-06-15 02:47:56 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1572606
+2025-06-15 02:47:56 ERROR HybridBot exchange error: Expiry must be in the future request: 1540000 server: 1572714
+2025-06-15 02:47:56 ERROR HybridBot exchange error: Expiry must be in the future request: 1525000 server: 1572825
+2025-06-15 02:47:56 INFO  HybridBot T_remain=1400.0s
+2025-06-15 02:47:56 INFO  HybridBot Strikes: ['$CARD_call_99833_1545', '$CARD_call_99871_1560', '$CARD_call_99485_1500', '$CARD_call_99485_1605', '$CARD_call_99916_1485', '$CARD_put_99833_1545', '$CARD_put_99871_1560', '$CARD_put_99485_1500', '$CARD_put_99485_1605', '$CARD_put_99916_1485']
+2025-06-15 02:47:56 INFO  HybridBot σ 0.0003→0.0004
+2025-06-15 02:47:56 INFO  HybridBot cancel_order_response: FAIL (req=0000000144)
+2025-06-15 02:47:56 ERROR HybridBot exchange error: Failed to parse field 'order_id': Could not cast to int.
+2025-06-15 02:48:02 ERROR HybridBot exchange error: Expiry must be in the future request: 1555000 server: 1576117
+2025-06-15 02:52:39 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:52:43 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:52:59 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:55:22 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:55:29 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:56:36 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:56:37 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:56:39 INFO  HybridBot HybridBot: initializing strategy
+2025-06-15 02:56:42 INFO  HybridBot HybridBot: initializing strategy
